@@ -1,0 +1,401 @@
+nb_downl,Surname,First,nb_pages,Author_clean,Students,nb_works,h_index,Author,nb_cit,vn_award,clark,nobel,Country,top10_shangai_yn
+7515,F,Christopher,1099,Christopher F,10.0,415,21,"Christopher F Baum Department of Economics, Boston College, Chestnut Hill, Massachusetts (USA)",3062,0,0,0,(USA),0
+6537,Acemoglu,Daron,5349,Daron Acemoglu,23.0,645,72,"Daron Acemoglu Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",24703,1,1,0,(USA),1
+6290,Stiglitz,Joseph,5753,Joseph E. Stiglitz,6.0,643,72,"Joseph E. Stiglitz Finance and Economics Department, Graduate School of Business, Columbia University, New York City, New York (USA)",25947,0,1,1,(USA),1
+5632,List,John,3642,John List,5.0,681,56,"John List Department of Economics, University of Chicago, Chicago, Illinois (USA)",11165,0,0,0,(USA),1
+5426,Barro,Robert,2705,Robert J. Barro,7.0,329,65,"Robert J. Barro Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",31421,0,0,0,(USA),1
+5097,Heckman,James,5018,James J. Heckman,26.0,645,86,"James J. Heckman Department of Economics, University of Chicago, Chicago, Illinois (USA)",34146,0,1,1,(USA),1
+4891,Nordhaus,William,1793,William D. Nordhaus,0.5,208,34,"William D. Nordhaus Cowles Foundation for Research in Economics, Yale University, New Haven, Connecticut (USA)Economics Department, Yale University, New Haven, Connecticut (USA)",5083,0,0,1,(USA),1
+4525,Hashem,M,3607,M Hashem,4.0,649,57,"M Hashem Pesaran Department of Economics, University of Southern California, Los Angeles, California (USA)",23850,0,0,0,(USA),0
+3968,Sargent,Thomas,3439,Thomas J. Sargent,19.0,365,50,"Thomas J. Sargent Department of Economics, New York University (NYU), New York City, New York (USA)",9609,0,0,1,(USA),1
+3956,Krugman,Paul,1636,Paul R. Krugman,8.5,199,49,"Paul R. Krugman Woodrow Wilson School of Public and International Affairs, Princeton University, Princeton, New Jersey (USA)",16124,0,1,1,(USA),1
+3842,Becker,Gary,1323,Gary S. Becker,10.5,172,49,Gary S. Becker †,20728,1,1,1,(USA),1
+3718,Bernanke,Ben,1389,Ben S. Bernanke,4.5,379,43,"Ben S. Bernanke Economic Studies, Brookings Institution, Washington, District of Columbia (USA)",16982,0,0,0,(USA),0
+3687,Julian,Barry,4603,Barry Julian,8.5,836,51,"Barry Julian Eichengreen Department of Economics, University of California-Berkeley, Berkeley, California (USA)",9482,0,0,0,(USA),1
+3381,Shleifer,Andrei,4312,Andrei Shleifer,37.5,560,90,"Andrei Shleifer Department of Economics, Harvard University, Cambridge, Massachusetts (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",48826,0,1,0,(USA),1
+3356,Lucas,Robert,1391,Robert E. Lucas,31.5,127,42,"Robert E. Lucas Jr.Department of Economics, University of Chicago, Chicago, Illinois (USA)",18980,0,0,1,(USA),1
+3347,Vinayak,Abhijit,1868,Abhijit Vinayak,7.5,278,44,"Abhijit Vinayak Banerjee Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",8966,0,0,0,(USA),1
+3258,Krueger,Alan,2423,Alan B. Krueger,11.0,355,52,Alan B. Krueger †,14406,0,0,0,None,0
+3142,Dosi,Giovanni,2411,Giovanni Dosi,3.0,369,31,"Giovanni Dosi Laboratory of Economics and Management (LEM), Scuola Superiore Sant'Anna, Pisa, Italy",5361,0,0,0, Italy,0
+3099,Blanchard,Olivier,2718,Olivier J Blanchard,35.0,372,60,"Olivier J Blanchard Peter G. Peterson Institute for International Economics (IIE), Washington, District of Columbia (USA)",20168,1,0,0,(USA),0
+3097,Gupta,Rangan,6337,Rangan Gupta,2.0,1270,18,"Rangan Gupta Department of Economics, Faculty of Economic and Management Sciences, University of Pretoria, Pretoria, South Africa",2169,0,0,0, South Africa,0
+3016,Francesco,Alberto,2973,Alberto Francesco,7.5,496,73,Alberto Francesco Alesina †,20651,0,0,0,None,0
+2953,Bloom,Nicholas,1251,Nicholas Bloom,3.5,323,32,"Nicholas Bloom Department of Economics, Stanford University, Stanford, California (USA)",8203,0,0,0,(USA),1
+2952,Reinhart,Carmen,2177,Carmen M. Reinhart,8.0,450,67,"Carmen M. Reinhart Kennedy School of Government, Harvard University, Cambridge, Massachusetts (USA)",23472,0,0,0,(USA),1
+2924,Tirole,Jean,4439,Jean Tirole,5.0,478,74,"Jean Tirole Institut d'Économie Industrielle (IDEI), Toulouse School of Economics (TSE), Toulouse, France",24483,1,0,1, France,0
+2730,Summers,Lawrence,2867,Lawrence H. Summers,4.5,320,56,"Lawrence H. Summers Harvard Business School, Harvard University, Cambridge, Massachusetts (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",14296,0,1,0,(USA),1
+2568,Tol,Richard,2897,Richard S.J. Tol,14.5,592,32,"Richard S.J. Tol Department of Economics, Sussex Business School, University of Sussex, Brighton, United Kingdom",4006,0,0,0, United Kingdom,0
+2567,Engle,Robert,2116,Robert F. Engle,12.5,230,58,"Robert F. Engle IIIFinance Department, Stern School of Business, New York University (NYU), New York City, New York (USA)Volatility Institute, Stern School of Business, New York University (NYU), New York City, New York (USA)",28370,0,0,1,(USA),1
+2561,Restuccia,Diego,768,Diego Restuccia,4.0,163,17,"Diego Restuccia Department of Economics, University of Toronto, Toronto, Canada",1752,0,0,0, Canada,0
+2531,Santos,Joao,943,Joao Santos,2.5,113,18,"Joao M.C. Santos Silva School of Economics, University of Surrey, Guildford, United Kingdom",2148,0,0,0, United Kingdom,0
+2517,Song,Hyun,2268,Hyun Song,5.5,343,45,"Hyun Song Shin Bank for International Settlements (BIS), Basel, Switzerland",7412,0,0,0, Switzerland,0
+2444,Tobin,James,1114,James Tobin,6.0,194,22,James Tobin †,3983,0,1,1,(USA),1
+2413,Reis,Ricardo,918,Ricardo Reis,8.5,199,24,"Ricardo Reis Economics Department, London School of Economics (LSE), London, United Kingdom",3304,0,0,0, United Kingdom,1
+2371,Shiller,Robert,1941,Robert J. Shiller,3.5,312,45,"Robert J. Shiller Cowles Foundation for Research in Economics, Yale University, New Haven, Connecticut (USA)",10032,0,0,1,(USA),1
+2349,Blundell,Richard,3183,Richard Blundell,25.0,416,55,"Richard Blundell Department of Economics, University College London (UCL), London, United Kingdom",19722,0,0,0, United Kingdom,0
+2339,J,Gabriel,1839,Gabriel J,2.0,334,26,"Gabriel J Felbermayr Institut für Weltwirtschaft (IfW), Kiel, Germany",2128,0,0,0, Germany,0
+2328,Taylor,Alan,1598,Alan M. Taylor,2.5,337,35,"Alan M. Taylor Economics Department, University of California-Davis, Davis, California (USA)",5608,0,0,0,(USA),0
+2301,Duflo,Esther,969,Esther Duflo,8.5,223,42,"Esther Duflo Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",10006,1,1,1,(USA),1
+2291,Peri,Giovanni,1734,Giovanni Peri,6.0,322,32,"Giovanni Peri Economics Department, University of California-Davis, Davis, California (USA)",3828,0,0,0,(USA),0
+2238,Arrow,Kenneth,1127,Kenneth J. Arrow,18.5,145,28,Kenneth J. Arrow †,6198,1,1,1,(USA),1
+2223,Gibson,John,2268,John Gibson,5.5,344,25,"John Gibson Department of Economics, Waikato Management School, University of Waikato, Hamilton, New Zealand",1997,0,0,0, New Zealand,0
+2215,Frey,Bruno,4285,Bruno S. Frey,8.0,667,46,"Bruno S. Frey Center for Research in Economics, Management and the Arts (CREMA), Basel/Zürich, Switzerland",9107,0,0,0, Switzerland,0
+2201,Dustmann,Christian,2157,Christian Dustmann,13.0,299,41,"Christian Dustmann Department of Economics, University College London (UCL), London, United KingdomCentre for Research and Analysis of Migration (CReAM), University College London (UCL), London, United Kingdom",5176,0,0,0, United Kingdom,0
+2156,Besley,Timothy,2786,Timothy J. Besley,2.0,349,53,"Timothy J. Besley Economics Department, London School of Economics (LSE), London, United Kingdom",10319,0,0,0, United Kingdom,1
+2129,S,Kenneth,2121,Kenneth S,5.0,392,63,"Kenneth S Rogoff Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",27020,0,0,0,(USA),1
+2107,Sims,Christopher,1131,Christopher Sims,28.0,145,35,"Christopher Sims Department of Economics, Princeton University, Princeton, New Jersey (USA)",11682,0,0,1,(USA),1
+2090,D,Joshua,1723,Joshua D,4.5,236,46,"Joshua D Angrist Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",11863,0,0,0,(USA),1
+2077,Fehr,Ernst,1954,Ernst Fehr,2.0,374,47,"Ernst Fehr Institut für Volkswirtschaftslehre, Wirtschaftswissenschaftliche Fakutät, Universität Zürich, Zürich, Switzerland",12213,0,0,0, Switzerland,0
+2067,Samuelson,Paul,2204,Paul A. Samuelson,2.0,237,25,Paul A. Samuelson †,4692,0,1,1,(USA),1
+2048,Clark,Andrew,1311,Andrew Clark,6.5,535,34,"Andrew Clark Paris School of Economics, Paris, France",6659,0,0,0, France,0
+2030,Eichenbaum,Martin,1651,Martin Eichenbaum,7.0,276,50,"Martin Eichenbaum Department of Economics, Northwestern University, Evanston, Illinois (USA)",12357,0,0,0,(USA),0
+2028,McAleer,Michael,5562,Michael McAleer,8.0,1383,28,"Michael McAleer Department of Finance, College of Management, Asia University, Wufeng, Taiwan",3760,0,0,0, Taiwan,0
+2013,Egger,Peter,3985,Peter H. Egger,3.5,413,35,"Peter H. Egger Department of Management, Technology and Economics (D-MTEC), Eidgenössische Technische Hochschule Zürich (ETHZ), Zürich, SwitzerlandKOF Swiss Economic Institute, Department of Management, Technology and Economics (D-MTEC), Eidgenössische Technische Hochschule Zürich (ETHZ), Zürich, Switzerland",4374,0,0,0, Switzerland,0
+1982,Brunnermeier,Markus,858,Markus K. Brunnermeier,4.5,165,23,"Markus K. Brunnermeier Department of Economics, Princeton University, Princeton, New Jersey (USA)",4810,0,0,0,(USA),1
+1946,MacKinnon,James,1349,James MacKinnon,4.0,215,30,"James MacKinnon Economics Department, Queen's University, Kingston, Canada",6752,0,0,0, Canada,0
+1937,Machin,Stephen,2557,Stephen Machin,2.0,450,39,"Stephen Machin Centre for Economic Performance (CEP), London School of Economics (LSE), London, United Kingdom",5606,0,0,0, United Kingdom,1
+1912,Kahn,Matthew,1724,Matthew E. Kahn,6.5,218,30,"Matthew E. Kahn Department of Economics, University of Southern California, Los Angeles, California (USA)",3522,0,0,0,(USA),0
+1909,Mishkin,Frederic,1899,Frederic Mishkin,1.0,287,51,"Frederic Mishkin Finance and Economics Department, Graduate School of Business, Columbia University, New York City, New York (USA)",7678,0,0,0,(USA),1
+1855,Gorodnichenko,Yuriy,1442,Yuriy Gorodnichenko,7.0,204,31,"Yuriy Gorodnichenko Department of Economics, University of California-Berkeley, Berkeley, California (USA)",3885,0,0,0,(USA),1
+1843,Autor,David,1608,David Autor,3.5,186,41,"David Autor Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",9388,0,0,0,(USA),1
+1834,Hausmann,Ricardo,839,Ricardo Hausmann,1.0,244,30,"Ricardo Hausmann Kennedy School of Government, Harvard University, Cambridge, Massachusetts (USA)Center for International Development, Kennedy School of Government, Harvard University, Cambridge, Massachusetts (USA)",4589,0,0,0,(USA),1
+1828,Calvo,Guillermo,1733,Guillermo A. Calvo,1.0,251,42,"Guillermo A. Calvo School of International and Public Affairs (SIPA), Columbia University, New York City, New York (USA)",11947,0,0,0,(USA),1
+1824,Fernandez-Villaverde,Jesus,801,Jesus Fernandez-Villaverde,1.0,221,26,"Jesus Fernandez-Villaverde Department of Economics, University of Pennsylvania, Philadelphia, Pennsylvania (USA)",2426,0,0,0,(USA),0
+1804,Mayer,Thierry,1177,Thierry Mayer,7.5,388,32,"Thierry Mayer Department of Economics, Sciences économiques, Sciences Po, Paris, France",5361,0,0,0, France,0
+1782,Bahmani-Oskooee,Mohsen,6142,Mohsen Bahmani-Oskooee,6.0,431,25,"Mohsen Bahmani-Oskooee Economics Department, University of Wisconsin, Milwaukee, Wisconsin (USA)",2745,0,0,0,(USA),0
+1778,Obstfeld,Maurice,2409,Maurice Obstfeld,16.5,381,50,"Maurice Obstfeld Department of Economics, University of California-Berkeley, Berkeley, California (USA)",12780,1,0,0,(USA),1
+1749,Havranek,Tomas,848,Tomas Havranek,7.0,153,21,"Tomas Havranek Institut ekonomických studií, Univerzita Karlova v Praze, Praha, Czech Republic",1638,0,0,0, Czech Republic,0
+1740,Hausman,Jerry,1738,Jerry A. Hausman,8.0,183,45,"Jerry A. Hausman Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",12578,0,1,0,(USA),1
+1734,Mullainathan,Sendhil,1160,Sendhil Mullainathan,1.0,151,34,"Sendhil Mullainathan Booth School of Business, University of Chicago, Chicago, Illinois (USA)",7581,0,0,0,(USA),1
+1689,Slemrod,Joel,2350,Joel Slemrod,21.0,290,37,"Joel Slemrod Department of Business Economics and Public Policy, Ross School of Business, University of Michigan, Ann Arbor, Michigan (USA)Economics Department, University of Michigan, Ann Arbor, Michigan (USA)",5104,0,0,0,(USA),0
+1688,Swinnen,Johan,3081,Johan Swinnen,4.0,540,31,"Johan Swinnen International Food Policy Research Institute (IFPRI), Washington, District of Columbia (USA)",3069,0,0,0,(USA),0
+1687,Prescott,Edward,1550,Edward C. Prescott,37.5,250,44,"Edward C. Prescott Department of Economics, W.P. Carey School of Business, Arizona State University, Tempe, Arizona (USA)",15057,0,0,1,(USA),0
+1678,Ludwig,Edward,858,Edward Ludwig,11.0,377,54,"Edward Ludwig Glaeser Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",14020,0,0,0,(USA),1
+1656,Dreher,Axel,1969,Axel Dreher,7.0,399,33,"Axel Dreher Alfred-Weber-Institut für Wirtschaftswissenschaften, Fakultät für Wirtschafts- und Sozialwissenschaften, Ruprecht-Karls-Universität Heidelberg, Heidelberg, Germany",4108,0,0,0, Germany,0
+1656,Belke,Ansgar,3783,Ansgar Belke,1.0,554,20,"Ansgar Belke Volkswirtschaftslehre, Fachbereich Wirtschaftswissenschaften, Universität Duisburg-Essen, Essen, Germany",1520,0,0,0, Germany,0
+1635,ifo,Clemens,2784,Clemens Fuest ifo,6.5,425,22,"Clemens Fuest ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e.V., München, Germany",1682,0,0,0, Germany,0
+1634,Griliches,Zvi,1175,Zvi Griliches,5.5,185,46,Zvi Griliches †,11299,0,1,0,None,0
+1624,Corsetti,Giancarlo,4146,Giancarlo Corsetti,2.5,427,33,"Giancarlo Corsetti Faculty of Economics, University of Cambridge, Cambridge, United Kingdom",4726,0,0,0, United Kingdom,0
+1620,Zingales,Luigi,1609,Luigi Zingales,0.5,245,43,"Luigi Zingales Booth School of Business, University of Chicago, Chicago, Illinois (USA)",13203,0,0,0,(USA),1
+1616,Thisse,Jacques,3370,Jacques François Thisse,2.5,779,43,"Jacques François Thisse Center for Market Studies and Spatial Economics, Saint Petersburg Branch, National Research University Higher School of Economics, St. Petersburg, Russia",6750,0,0,0, Russia,0
+1598,Deaton,Angus,1924,Angus S. Deaton,4.5,302,53,"Angus S. Deaton Leonard D. Schaeffer Center for Health Policy and Economics, University of Southern California, Los Angeles, California (USA)",12367,0,0,1,(USA),0
+1589,Rapoport,Hillel,1266,Hillel Rapoport,2.5,316,23,"Hillel Rapoport Paris School of Economics, Paris, France",2947,0,0,0, France,0
+1588,ifo,Niklas,1903,Niklas Potrafke ifo,1.0,354,20,"Niklas Potrafke ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e.V., München, Germany",1150,0,0,0, Germany,0
+1582,Nijkamp,Peter,6967,Peter Nijkamp,9.5,1320,31,"Peter Nijkamp Afdeling Ruimtelijke Economie, School of Business and Economics, Vrije Universiteit Amsterdam, Amsterdam, Netherlands",4415,0,0,0, Netherlands,0
+1573,Solow,Robert,1090,Robert M. Solow,11.0,149,24,"Robert M. Solow Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",5823,0,1,1,(USA),1
+1561,Rogerson,Richard,1510,Richard Rogerson,6.5,211,38,"Richard Rogerson Department of Economics, Princeton University, Princeton, New Jersey (USA)",5806,0,0,0,(USA),1
+1535,Campbell,John,2566,John Y. Campbell,13.5,363,60,"John Y. Campbell Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",18709,0,0,0,(USA),1
+1531,Friedman,Milton,877,Milton Friedman,5.5,213,27,Milton Friedman †,6094,0,1,1,(USA),1
+1528,Zou,Heng-Fu,1680,Heng-Fu Zou,12.0,274,21,"Heng-Fu Zou China Economics and Management Academy, Central University of Finance and Economics (CUFE), Beijing, China",3225,0,0,0, China,0
+1527,Henderson,J.,1928,J. Vernon Henderson,6.5,185,39,"J. Vernon Henderson Department of Geography and Environment, London School of Economics (LSE), London, United Kingdom",5849,0,0,0, United Kingdom,1
+1526,Tabellini,Guido,1638,Guido Tabellini,1.0,307,47,"Guido Tabellini Innocenzo Gasparini Institute for Economic Research (IGIER), Università Commerciale Luigi Bocconi, Milano, Italy",9298,0,0,0, Italy,0
+1517,Koop,Gary,2126,Gary Koop,1.0,334,29,"Gary Koop Economics Department, University of Strathclyde, Glasgow, United Kingdom",4505,0,0,0, United Kingdom,0
+1503,Vivarelli,Marco,1267,Marco Vivarelli,16.0,242,25,"Marco Vivarelli Dipartimento di Politica Economica, Dipartimenti e Istituti di Scienze Economiche, Università Cattolica del Sacro Cuore, Italy",2084,0,0,0, Italy,0
+1497,Zenou,Yves,2742,Yves Zenou,0.5,510,30,"Yves Zenou Department of Economics, Monash Business School, Monash University, Melbourne, Australia",3040,0,0,0, Australia,0
+1483,White,Halbert,2286,Halbert White,4.5,194,36,Halbert White †,10924,0,0,0,None,0
+1475,Feenstra,Robert,1632,Robert C. Feenstra,3.5,285,42,"Robert C. Feenstra Economics Department, University of California-Davis, Davis, California (USA)",8535,0,0,0,(USA),0
+1475,Rodney,Adrian,1428,Adrian Rodney,4.5,193,33,"Adrian Rodney Pagan School of Economics, Faculty of Arts and Social Sciences, University of Sydney, Sydney, Australia",7193,0,0,0, Australia,0
+1463,Diebold,Francis,1413,Francis X. Diebold,18.0,370,54,"Francis X. Diebold Department of Economics, University of Pennsylvania, Philadelphia, Pennsylvania (USA)",15736,0,0,0,(USA),0
+1453,Hamermesh,Daniel,1799,Daniel Hamermesh,2.5,348,32,"Daniel Hamermesh Institute of Labor Economics (IZA), Bonn, Germany",3873,0,0,0, Germany,0
+1445,Blinder,Alan,1921,Alan S. Blinder,4.5,205,35,"Alan S. Blinder Griswold Center for Economic Policy Studies, Department of Economics, Princeton University, Princeton, New Jersey (USA)Department of Economics, Princeton University, Princeton, New Jersey (USA)",5726,0,0,0,(USA),1
+1441,McFadden,Daniel,1170,Daniel L. McFadden,5.0,174,33,"Daniel L. McFadden Department of Economics, University of California-Berkeley, Berkeley, California (USA)Leonard D. Schaeffer Center for Health Policy and Economics, University of Southern California, Los Angeles, California (USA)",5996,0,1,0,(USA),1
+1424,Hamilton,James,1374,James Hamilton,17.0,141,41,"James Hamilton Department of Economics, University of California-San Diego (UCSD), La Jolla, California (USA)",12032,0,0,0,(USA),0
+1406,Hanson,Gordon,1420,Gordon Hanson,1.5,197,40,"Gordon Hanson Kennedy School of Government, Harvard University, Cambridge, Massachusetts (USA)",7579,0,0,0,(USA),1
+1380,Freeman,Richard,2208,Richard B. Freeman,2.0,502,43,"Richard B. Freeman Centre for Economic Performance (CEP), London School of Economics (LSE), London, United KingdomNational Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",6367,0,0,0,(USA),1
+1372,(Rick),Frederick,2580,Frederick (Rick),2.5,423,26,"Frederick (Rick) van der Ploeg Oxford Centre for the Analysis of Resource-Rich Economies (OxCarre), Department of Economics, Oxford University, Oxford, United KingdomDepartment of Economics, Oxford University, Oxford, United Kingdom",3020,0,0,0, United Kingdom,0
+1368,Oswald,Andrew,1535,Andrew J. Oswald,3.0,362,43,"Andrew J. Oswald Department of Economics, University of Warwick, Coventry, United KingdomInstitute of Labor Economics (IZA), Bonn, Germany",10602,0,0,0, Germany,0
+1361,Schorfheide,Frank,1008,Frank Schorfheide,4.0,185,30,"Frank Schorfheide Department of Economics, University of Pennsylvania, Philadelphia, Pennsylvania (USA)",4397,0,0,0,(USA),0
+1361,T,Sergio,1272,Sergio T,0.5,212,40,"Sergio T Rebelo Centre for Economic Policy Research (CEPR), London, United Kingdom",9622,0,0,0, United Kingdom,0
+1346,Mendoza,Enrique,1490,Enrique G. Mendoza,9.0,240,35,"Enrique G. Mendoza Department of Economics, University of Pennsylvania, Philadelphia, Pennsylvania (USA)",5571,0,0,0,(USA),0
+1342,Johnson,Simon,1348,Simon Johnson,1.0,141,30,"Simon Johnson National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",10542,0,0,0,(USA),0
+1325,Taylor,John,1421,John B. Taylor,3.5,252,33,"John B. Taylor Department of Economics, Stanford University, Stanford, California (USA)Hoover Institution on War Revolution & Peace, Stanford University, Stanford, California (USA)",9344,0,0,0,(USA),1
+1318,Weil,David,833,David N. Weil,4.0,163,28,"David N. Weil Economics Department, Brown University, Providence, Rhode Island (USA)",9280,0,0,0,(USA),0
+1309,Hendry,David,2787,David F. Hendry,8.5,303,38,"David F. Hendry Department of Economics, Oxford University, Oxford, United Kingdom",5888,0,0,0, United Kingdom,0
+1286,Aizenman,Joshua,3035,Joshua Aizenman,4.5,531,35,"Joshua Aizenman Department of Economics, University of Southern California, Los Angeles, California (USA)",3729,0,0,0,(USA),0
+1281,Galiani,Sebastian,1493,Sebastian Galiani,2.0,222,20,"Sebastian Galiani Department of Economics, University of Maryland, College Park, Maryland (USA)",1815,0,0,0,(USA),0
+1276,Anderson,James,1070,James E. Anderson,10.0,218,22,"James E. Anderson Department of Economics, Boston College, Chestnut Hill, Massachusetts (USA)",6058,0,0,0,(USA),0
+1265,Zeckhauser,Richard,2835,Richard J. Zeckhauser,1.5,390,33,"Richard J. Zeckhauser Mossavar-Rahmani Center for Business and Government, Kennedy School of Government, Harvard University, Cambridge, Massachusetts (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",5284,0,0,0,(USA),1
+1259,Armstrong,Mark,971,Mark Armstrong,4.5,121,28,"Mark Armstrong Department of Economics, Oxford University, Oxford, United Kingdom",2714,0,0,0, United Kingdom,0
+1253,Szymanski,Stefan,1089,Stefan Szymanski,0.5,124,20,Stefan Szymanski,1297,0,0,0,Stefan Szymanski,0
+1247,Katz,Lawrence,1819,Lawrence F. Katz,43.0,240,52,"Lawrence F. Katz Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",12052,0,0,0,(USA),1
+1235,Feldstein,Martin,2715,Martin S. Feldstein,4.5,543,47,Martin S. Feldstein †,8870,0,1,0,None,0
+1232,Chernozhukov,Victor,1352,Victor Chernozhukov,2.5,292,27,"Victor Chernozhukov Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",3048,0,0,0,(USA),1
+1210,Krueger,Dirk,764,Dirk Krueger,9.5,192,25,"Dirk Krueger Penn Institute for Economic Research, Department of Economics, University of Pennsylvania, Philadelphia, Pennsylvania (USA)",2500,0,0,0,(USA),0
+1189,H,Wilbert,861,Wilbert H,1.0,160,20,"Wilbert H van der Klaauw Research and Statistics Group, Federal Reserve Bank of New York, New York City, New York (USA)",2092,0,0,0,(USA),0
+1184,Markusen,James,1454,James R. Markusen,1.5,194,40,"James R. Markusen Department of Economics, University of Colorado, Boulder, Colorado (USA)",7895,0,0,0,(USA),0
+1163,Barnes,Anthony,2211,Anthony Barnes,4.5,278,36,Anthony Barnes Atkinson †,8083,0,0,0,None,0
+1153,O.,Lars,2214,Lars E. O.,1.5,375,47,"Lars E. O. Svensson Handelshögskolan i Stockholm, Stockholm, Sweden",8422,0,0,0, Sweden,0
+1146,Head,Keith,906,Keith Head,0.5,175,29,"Keith Head Strategy and Business Economics Division, Sauder School of Business, University of British Columbia, Vancouver, Canada",4742,0,0,0, Canada,0
+1143,Orregaard,Morten,1156,Morten Orregaard,1.0,160,20,"Morten Orregaard Nielsen Economics Department, Queen's University, Kingston, Canada",1143,0,0,0, Canada,0
+1139,Glewwe,Paul,1374,Paul William Glewwe,4.5,149,23,"Paul William Glewwe Department of Applied Economics, College of Agricultural, Food, and Environmental Sciences, University of Minnesota-St. Paul, St. Paul, Minnesota (USA)",2271,0,0,0,(USA),0
+1135,Brueckner,Jan,2335,Jan K. Brueckner,2.0,232,37,"Jan K. Brueckner Department of Economics, University of California-Irvine, Irvine, California (USA)",4170,0,0,0,(USA),0
+1131,Feld,Lars,2110,Lars P. Feld,1.0,328,22,"Lars P. Feld Walter Eucken Institut, Freiburg, Germany",2036,0,0,0, Germany,0
+1102,Dornbusch,Rudiger,2091,Rudiger Dornbusch,15.0,235,31,Rudiger Dornbusch †,5354,0,0,0,None,0
+1090,Bernheim,B.,1654,B. Douglas Bernheim,2.5,163,35,"B. Douglas Bernheim Department of Economics, Stanford University, Stanford, California (USA)",6497,0,0,0,(USA),1
+1089,Benhabib,Jess,1699,Jess Benhabib,2.0,218,32,"Jess Benhabib Department of Economics, New York University (NYU), New York City, New York (USA)",5949,0,0,0,(USA),1
+1088,Milgrom,Paul,1272,Paul Milgrom,11.0,147,41,"Paul Milgrom Department of Economics, Stanford University, Stanford, California (USA)",13324,0,0,0,(USA),1
+1082,Ronald,Hal,783,Hal Ronald,3.5,114,27,"Hal Ronald Varian Department of Economics, University of California-Berkeley, Berkeley, California (USA)",4261,0,0,0,(USA),1
+1072,Kamalakar,Avinash,1738,Avinash Kamalakar,2.5,189,38,"Avinash Kamalakar Dixit Department of Economics, Princeton University, Princeton, New Jersey (USA)",10676,0,0,0,(USA),1
+1062,Farhi,Emmanuel,1524,Emmanuel Farhi,4.0,216,28,"Emmanuel Farhi Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",2670,0,0,0,(USA),1
+1060,Gallegati,Mauro,2776,Mauro Gallegati,1.5,269,24,"Mauro Gallegati Dipartimento di Management, Facoltà di Economia ""Giorgio Fuà"", Università Politecnica delle Marche, Ancona, Italy",2081,0,0,0, Italy,0
+1058,Mogstad,Magne,937,Magne Mogstad,1.0,162,21,"Magne Mogstad Department of Economics, University of Chicago, Chicago, Illinois (USA)",1443,0,0,0,(USA),1
+1058,Smith,Vernon,2338,Vernon L. Smith,3.0,244,38,"Vernon L. Smith Economic Science Institute (ESI), Argyros School of Business and Economics, Chapman University, Orange, California (USA)",5591,0,0,1,(USA),0
+1057,Van,Johannes,901,Johannes Van,2.5,131,15,"Johannes Van Biesebroeck Centrum voor Economische Studiën, Faculteit Economie en Bedrijfswetenschappen, KU Leuven, Leuven, Belgium",1522,0,0,0, Belgium,0
+1056,Howitt,Peter,1343,Peter Howitt,3.5,152,32,"Peter Howitt Economics Department, Brown University, Providence, Rhode Island (USA)",7874,0,0,0,(USA),0
+1053,Lemieux,Thomas,1428,Thomas Lemieux,1.5,147,28,"Thomas Lemieux Vancouver School of Economics, University of British Columbia, Vancouver, Canada",6596,0,0,0, Canada,0
+1047,Baumol,William,2083,William J. Baumol,1.0,268,28,William J. Baumol †,6279,0,0,0,None,0
+1045,Zimmermann,Klaus,2855,Klaus F. Zimmermann,16.5,645,30,"Klaus F. Zimmermann United Nations University-Maastricht Economic Research Institute of Innovation and Technology (UNU-MERIT), Maastricht, Netherlands",3254,0,0,0, Netherlands,0
+1038,Claire,Marie,1467,Marie Claire,1.0,795,19,"Marie Claire Villeval Groupe d'Analyse et de Théorie Économique Lyon St-Étienne (GATE Lyon St-Étienne), Université de Lyon, Lyon, France",1732,0,0,0, France,0
+1036,Gerald,Michael,1408,Michael Gerald,0.5,364,26,"Michael Gerald Pollitt Energy Policy Research Group, Judge Business School, University of Cambridge, Cambridge, United Kingdom",2342,0,0,0, United Kingdom,0
+1032,Diamond,Peter,1972,Peter A. Diamond,7.5,214,37,"Peter A. Diamond Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",7159,0,0,1,(USA),1
+1021,Kocenda,Evzen,1678,Evzen Kocenda,8.0,235,19,"Evzen Kocenda Institut ekonomických studií, Univerzita Karlova v Praze, Praha, Czech Republic",1110,0,0,0, Czech Republic,0
+1021,Philip,Anthony,1443,Anthony Philip,1.0,128,17,"Anthony Philip Thirlwall School of Economics, University of Kent, Canterbury, United Kingdom",1398,0,0,0, United Kingdom,0
+1015,Barrett,Christopher,2837,Christopher B. Barrett,16.0,357,37,"Christopher B. Barrett Charles H. Dyson School of Applied Economics and Management, Cornell University, Ithaca, New York (USA)",5262,0,0,0,(USA),0
+1007,Karlan,Dean,1285,Dean S. Karlan,1.5,356,30,"Dean S. Karlan Kellogg Graduate School of Management, Northwestern University, Evanston, Illinois (USA)",3676,0,0,0,(USA),0
+1005,Sturm,Jan-Egbert,5924,Jan-Egbert Sturm,4.0,365,26,"Jan-Egbert Sturm KOF Swiss Economic Institute, Department of Management, Technology and Economics (D-MTEC), Eidgenössische Technische Hochschule Zürich (ETHZ), Zürich, Switzerland",2382,0,0,0, Switzerland,0
+1003,Dercon,Stefan,1669,Stefan Dercon,9.5,212,28,"Stefan Dercon Centre for the Study of African Economies (CSAE), Department of Economics, Oxford University, Oxford, United Kingdom",3122,0,0,0, United Kingdom,0
+996,Fritsch,Michael,1567,Michael Fritsch,12.0,304,31,"Michael Fritsch Wirtschaftswissenschaftliche Fakultät, Friedrich-Schiller-Universität Jena, Jena, Germany",2700,0,0,0, Germany,0
+983,Bernard,Andrew,908,Andrew B. Bernard,0.5,252,38,"Andrew B. Bernard Tuck School of Business, Dartmouth College, Hanover, New Hampshire (USA)",8592,0,0,0,(USA),0
+981,Rios-Rull,Jose-Victor,1221,Jose-Victor Rios-Rull,15.0,153,27,"Jose-Victor Rios-Rull Department of Economics, University of Minnesota, Minneapolis, Minnesota (USA)",3230,0,0,0,(USA),0
+979,F,Juan,995,Juan F,3.0,211,28,"Juan F Rubio-Ramirez Department of Economics, Emory University, Atlanta, Georgia (USA)",2836,0,0,0,(USA),0
+977,Muellbauer,John,1413,John Muellbauer,3.0,189,24,"John Muellbauer Department of Economics, Oxford University, Oxford, United Kingdom",4429,0,0,0, United Kingdom,0
+969,Grossman,Michael,1000,Michael Grossman,8.0,184,30,"Michael Grossman Department of Economics, Graduate Center, City University of New York (CUNY), New York City, New York (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",5071,0,1,0,(USA),0
+966,Hart,Oliver,835,Oliver D. Hart,4.5,161,37,"Oliver D. Hart Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",11040,0,0,1,(USA),1
+958,Beine,Michel,1264,Michel Beine,0.5,223,23,"Michel Beine Centre de Recherche en Économie Appliquée (CREA), Faculté de droit, d'économie et de finance, Université du Luxembourg, Luxembourg, Luxembourg",1905,0,0,0, Luxembourg,0
+940,Huizinga,Harry,1142,Harry P. Huizinga,0.5,233,27,"Harry P. Huizinga Departement Algemene Economie, School of Economics and Management, Universiteit van Tilburg, Tilburg, Netherlands",3450,0,0,0, Netherlands,0
+931,Hurlin,Christophe,878,Christophe Hurlin,4.0,214,16,"Christophe Hurlin Laboratoire d'Économie d'Orléans (LEO), Faculté de droit, d'économie et de gestion, Université d'Orléans, Orléans, France",1213,0,0,0, France,0
+925,Pestieau,Pierre,4211,Pierre Pestieau,2.5,940,28,"Pierre Pestieau Center for Operations Research and Econometrics (CORE), Louvain Institute of data Analysis and Modelling in Economics and Statistics (LIDAM), Université Catholique de Louvain, Louvain-la-Neuve, Belgium",3072,0,0,0, Belgium,0
+923,Johansen,Soren,1083,Soren Johansen,8.0,173,26,"Soren Johansen Økonomisk Institut, Københavns Universitet, København, Denmark",17598,0,0,0, Denmark,0
+922,Michael,Andrew,1639,Andrew Michael,13.5,237,27,"Andrew Michael Jones Department of Economics and Related Studies, University of York, York, United Kingdom",2260,0,0,0, United Kingdom,0
+917,Peter,Lars,1715,Lars Peter,25.5,166,40,"Lars Peter Hansen Department of Economics, University of Chicago, Chicago, Illinois (USA)",10612,0,0,0,(USA),1
+917,Combes,Pierre-Philippe,1143,Pierre-Philippe Combes,2.0,268,23,"Pierre-Philippe Combes Groupe d'Analyse et de Théorie Économique Lyon St-Étienne (GATE Lyon St-Étienne), Université de Lyon, Lyon, FranceDepartment of Economics, Sciences économiques, Sciences Po, Paris, France",2566,0,0,0, France,0
+908,Bergemann,Dirk,1239,Dirk Bergemann,5.5,302,21,"Dirk Bergemann Economics Department, Yale University, New Haven, Connecticut (USA)",1436,0,0,0,(USA),1
+907,Pakes,Ariel,1248,Ariel Pakes,14.5,145,31,"Ariel Pakes Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",7491,0,0,0,(USA),1
+905,Heshmati,Almas,1855,Almas Heshmati,0.5,291,17,"Almas Heshmati Nationalekonomi, Internationella Handelshögskolan, Jönköping Universitet, Jönköping, Sweden",1238,0,0,0, Sweden,0
+905,Modigliani,Franco,1166,Franco Modigliani,3.0,113,19,Franco Modigliani †,2509,0,0,1,(USA),1
+903,Roland,Gerard,1228,Gerard Roland,2.0,195,32,"Gerard Roland Department of Economics, University of California-Berkeley, Berkeley, California (USA)",3707,0,0,0,(USA),1
+895,Griffith,Rachel,1324,Rachel Griffith,1.0,186,29,"Rachel Griffith School of Economics, University of Manchester, Manchester, United Kingdom",5762,0,0,0, United Kingdom,0
+888,Terasvirta,Timo,1285,Timo Terasvirta,6.0,218,29,"Timo Terasvirta Center for Research in Econometric Analysis of Time Series (CREATES), Institut for Økonomi, Aarhus Universitet, Aarhus, DenmarkCenter for Applied Statistics and Econometrics (CASE), Humboldt-Universität Berlin, Berlin, Germany",3610,0,0,0, Germany,0
+885,Buiter,Willem,2265,Willem Hendrik Buiter,1.5,363,25,"Willem Hendrik Buiter School of International and Public Affairs (SIPA), Columbia University, New York City, New York (USA)Maurice R. Greenberg Center for Geoeconomic Studies, Council on Foreign Relations, Washington, District of Columbia (USA)",2353,0,0,0,(USA),1
+874,Leslie,Paul,2036,Paul Leslie,2.0,263,19,"Paul Leslie Levine School of Economics, University of Surrey, Guildford, United Kingdom",1365,0,0,0, United Kingdom,0
+871,McGrattan,Ellen,868,Ellen R. McGrattan,2.0,181,28,"Ellen R. McGrattan Department of Economics, University of Minnesota, Minneapolis, Minnesota (USA)",3804,0,0,0,(USA),0
+869,Taylor,Mark,2410,Mark P. Taylor,2.0,265,41,"Mark P. Taylor Olin School of Business, Washington University in St. Louis, St. Louis, Missouri (USA)",7524,0,0,0,(USA),0
+865,Fudenberg,Drew,2432,Drew Fudenberg,13.5,366,43,"Drew Fudenberg Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",7888,0,0,0,(USA),1
+852,Mignon,Valerie,1629,Valerie Mignon,2.0,351,22,"Valerie Mignon EconomiX, Université Paris-Nanterre (Paris X), Nanterre, France",1614,0,0,0, France,0
+852,Timmermann,Allan,1598,Allan Timmermann,3.5,191,44,"Allan Timmermann Department of Economics, University of California-San Diego (UCSD), La Jolla, California (USA)",5763,0,0,0,(USA),0
+838,Morris,Stephen,1877,Stephen Morris,3.0,397,31,"Stephen Morris Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",4290,0,0,0,(USA),1
+837,Andrew,Edward,1082,Edward Andrew,7.5,156,29,"Edward Andrew Miguel Department of Economics, University of California-Berkeley, Berkeley, California (USA)",3846,0,0,0,(USA),1
+836,Lewbel,Arthur,1365,Arthur Lewbel,10.0,190,27,"Arthur Lewbel Department of Economics, Boston College, Chestnut Hill, Massachusetts (USA)",2823,0,0,0,(USA),0
+834,Nelson,Richard,1278,Richard R. Nelson,1.5,131,34,"Richard R. Nelson School of International and Public Affairs (SIPA), Columbia University, New York City, New York (USA)",6194,0,0,0,(USA),1
+834,Overman,Henry,766,Henry G. Overman,1.5,221,25,"Henry G. Overman Department of Geography and Environment, London School of Economics (LSE), London, United Kingdom",2322,0,0,0, United Kingdom,1
+832,Boadway,Robin,2568,Robin W. Boadway,3.5,328,24,"Robin W. Boadway Economics Department, Queen's University, Kingston, Canada",2480,0,0,0, Canada,0
+831,M,David,1867,David M,0.5,313,25,"David M Newbery Energy Policy Research Group, Judge Business School, University of Cambridge, Cambridge, United Kingdom",3036,0,0,0, United Kingdom,0
+831,Andrew,Jeffrey,965,Jeffrey Andrew,16.5,113,26,"Jeffrey Andrew Smith Economics Department, University of Wisconsin-Madison, Madison, Wisconsin (USA)",4518,0,0,0,(USA),0
+812,Stein,Jeremy,1215,Jeremy C. Stein,3.0,156,47,"Jeremy C. Stein Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",11395,0,0,0,(USA),1
+811,Gale,Douglas,1554,Douglas Gale,6.0,183,33,"Douglas Gale Department of Economics, New York University (NYU), New York City, New York (USA)",4577,0,0,0,(USA),1
+810,John,Stephen,1582,Stephen John,9.0,190,36,"Stephen John Nickell Economics Group, Nuffield College, Department of Economics, Oxford University, Oxford, United KingdomDepartment of Economics, Oxford University, Oxford, United Kingdom",9454,0,0,0, United Kingdom,0
+809,Charles,Eswar,1314,Eswar Prasad Charles,2.0,205,33,"Eswar Prasad Charles H. Dyson School of Applied Economics and Management, Cornell University, Ithaca, New York (USA)",4644,0,0,0,(USA),0
+802,Myerson,Roger,1295,Roger B. Myerson,6.0,147,25,"Roger B. Myerson Harris School of Public Policy, University of Chicago, Chicago, Illinois (USA)",4184,0,0,1,(USA),1
+800,Andreoni,James,952,James Andreoni,7.0,173,38,"James Andreoni Department of Economics, University of California-San Diego (UCSD), La Jolla, California (USA)",8531,0,0,0,(USA),0
+797,Klemperer,Paul,883,Paul Klemperer,2.0,126,29,Paul Klemperer,5400,0,0,0,Paul Klemperer,0
+797,Frijters,Paul,1137,Paul Frijters,3.0,215,21,"Paul Frijters Department of Social Policy, London School of Economics (LSE), London, United Kingdom",4020,0,0,0, United Kingdom,1
+794,Greenstone,Michael,1246,Michael Greenstone,3.0,129,29,"Michael Greenstone Department of Economics, University of Chicago, Chicago, Illinois (USA)",3396,0,0,0,(USA),1
+789,Eaton,Jonathan,1160,Jonathan Eaton,3.0,181,32,"Jonathan Eaton Department of Economics, Pennsylvania State University, State College, Pennsylvania (USA)",6820,0,0,0,(USA),0
+784,Durlauf,Steven,1268,Steven N. Durlauf,21.0,217,32,"Steven N. Durlauf Harris School of Public Policy, University of Chicago, Chicago, Illinois (USA)",5619,0,0,0,(USA),1
+783,Buchanan,James,1562,James M. Buchanan,2.0,194,20,James M. Buchanan †,1896,0,0,1,Italy,0
+779,Devereux,Paul,766,Paul J. Devereux,2.5,176,23,"Paul J. Devereux School of Economics, University College Dublin, Dublin, Ireland",2553,0,0,0, Ireland,0
+777,Brandt,Loren,932,Loren Brandt,2.0,117,21,"Loren Brandt Department of Economics, University of Toronto, Toronto, Canada",1741,0,0,0, Canada,0
+774,Canova,Fabio,1581,Fabio Canova,7.5,213,36,"Fabio Canova Institutt for samfunnsøkonomi, BI Handelshøyskolen, Oslo, Norway",4483,0,0,0, Norway,0
+770,Suedekum,Jens,1008,Jens Suedekum,2.0,209,17,"Jens Suedekum Düsseldorf Institute for Competition Economics (DICE), Wirtschaftswissenschaftliche Fakultät, Heinriche-Heine-Universität Düsseldorf, Düsseldorf, Germany",993,0,0,0, Germany,0
+768,Mohnen,Pierre,1191,Pierre Mohnen,1.0,258,21,"Pierre Mohnen United Nations University-Maastricht Economic Research Institute of Innovation and Technology (UNU-MERIT), Maastricht, Netherlands",1901,0,0,0, Netherlands,0
+766,Rey,Patrick,1236,Patrick Rey,4.0,183,26,"Patrick Rey Institut d'Économie Industrielle (IDEI), Toulouse School of Economics (TSE), Toulouse, France",2336,0,0,0, France,0
+766,Pfaffermayr,Michael,1658,Michael Pfaffermayr,3.0,200,19,"Michael Pfaffermayr Fakultät für Volkswirtschaft und Statistik, Leopold-Franzens-Universität Innsbruck, Innsbruck, Austria",1545,0,0,0, Austria,0
+763,Altonji,Joseph,926,Joseph G. Altonji,5.0,112,30,"Joseph G. Altonji Economics Department, Yale University, New Haven, Connecticut (USA)",4841,0,0,0,(USA),1
+763,West,Kenneth,985,Kenneth D. West,9.5,175,28,"Kenneth D. West Economics Department, University of Wisconsin-Madison, Madison, Wisconsin (USA)",9709,0,0,0,(USA),0
+760,Cheung,Yin-Wong,1979,Yin-Wong Cheung,1.0,282,32,"Yin-Wong Cheung Department of Economics and Finance, College of Business, City University, Kowloon, Hong Kong",3881,0,0,0, Hong Kong,0
+760,Zilibotti,Fabrizio,1207,Fabrizio Zilibotti,2.0,226,31,"Fabrizio Zilibotti Economics Department, Yale University, New Haven, Connecticut (USA)",3649,0,0,0,(USA),1
+759,Beaudry,Paul,1559,Paul Beaudry,6.5,184,23,"Paul Beaudry Vancouver School of Economics, University of British Columbia, Vancouver, Canada",2235,0,0,0, Canada,0
+745,Veugelers,Reinhilde,1596,Reinhilde Veugelers,2.5,214,24,"Reinhilde Veugelers Onderzoekseenheid Bedrijfseconomie, Strategie en Innovatie, Faculteit Economie en Bedrijfswetenschappen, KU Leuven, Leuven, Belgium",2862,0,0,0, Belgium,0
+736,Manski,Charles,1939,Charles F. Manski,3.0,248,35,"Charles F. Manski Department of Economics, Northwestern University, Evanston, Illinois (USA)Institute for Policy Research (IPR), Northwestern University, Evanston, Illinois (USA)",6238,0,0,0,(USA),0
+734,Ernest,Robert,1689,Robert Ernest,4.5,215,36,"Robert Ernest Hall Department of Economics, Stanford University, Stanford, California (USA)",11073,0,0,0,(USA),1
+733,Algan,Yann,930,Yann Algan,2.0,246,22,"Yann Algan Department of Economics, Sciences économiques, Sciences Po, Paris, France",1623,0,0,0, France,0
+723,Levchenko,Andrei,900,Andrei A. Levchenko,7.0,158,21,"Andrei A. Levchenko Economics Department, University of Michigan, Ann Arbor, Michigan (USA)",1812,0,0,0,(USA),0
+715,Research,James,1217,James Bullard Research,0.5,454,19,"James Bullard Research Division, Federal Reserve Bank of St. Louis, St. Louis, Missouri (USA)",1468,0,0,0,(USA),0
+714,Sarno,Lucio,2014,Lucio Sarno,2.5,190,33,"Lucio Sarno Judge Business School, University of Cambridge, Cambridge, United Kingdom",4661,0,0,0, United Kingdom,0
+709,Goldin,Claudia,1280,Claudia Goldin,4.0,207,33,"Claudia Goldin Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",4520,0,0,0,(USA),1
+706,Basu,Kaushik,1509,Kaushik Basu,15.0,261,23,"Kaushik Basu Department of Economics, Cornell University, Ithaca, New York (USA)",2319,0,0,0,(USA),0
+703,Bussiere,Matthieu,794,Matthieu Bussiere,2.5,124,23,"Matthieu Bussiere Banque de France, Paris, France",1454,0,0,0, France,0
+701,van,Jeroen,2205,Jeroen C.J.M. van,1.0,253,25,"Jeroen C.J.M. van den Bergh Departament d'Economia i Història Econòmica, Universitat Autònoma de Barcelona, Barcelona Graduate School of Economics (Barcelona GSE), Barcelona, Spain",2404,0,0,0, Spain,0
+700,Favero,Carlo,1109,Carlo Favero,0.5,203,27,"Carlo Favero Dipartimento di Finanza, Università Commerciale Luigi Bocconi, Milano, Italy",2436,0,0,0, Italy,0
+695,Storesletten,Kjetil,879,Kjetil Storesletten,3.0,114,23,"Kjetil Storesletten Økonomisk institutt, Universitetet i Oslo, Oslo, Norway",2528,0,0,0, Norway,0
+695,Leamer,Edward,1092,Edward E. Leamer,4.0,133,27,"Edward E. Leamer Center for Global Management, Anderson Graduate School of Management, University of California-Los Angeles (UCLA), Los Angeles, California (USA)Department of Economics, University of California-Los Angeles (UCLA), Los Angeles, California (USA)",3066,0,0,0,(USA),0
+691,Boucekkine,Raouf,1368,Raouf Boucekkine,16.5,475,18,"Raouf Boucekkine Groupement de Recherche en Économie Quantitative d'Aix-Marseille (GREQAM), École d'Économie d'Aix-Marseille, Aix-Marseille Université, Marseille, France",1366,0,0,0, France,0
+690,Voth,Hans-Joachim,943,Hans-Joachim Voth,2.5,180,18,"Hans-Joachim Voth UBS International Center of Economics in Society, Institut für Volkswirtschaftslehre, Wirtschaftswissenschaftliche Fakutät, Universität Zürich, Zürich, SwitzerlandWirtschaftswissenschaftliche Fakutät, Universität Zürich, Zürich, Switzerland",1049,0,0,0, Switzerland,0
+685,Hines,James,979,James R. Hines,10.0,175,31,"James R. Hines Jr.Economics Department, University of Michigan, Ann Arbor, Michigan (USA)",3332,0,0,0,(USA),0
+685,Saint-Paul,Gilles,4500,Gilles Saint-Paul,13.0,538,21,"Gilles Saint-Paul Paris School of Economics, Paris, France",2400,0,0,0, France,0
+684,Moffitt,Robert,1900,Robert Moffitt,5.0,224,35,"Robert Moffitt Department of Economics, Johns Hopkins University, Baltimore, Maryland (USA)",4564,0,0,0,(USA),0
+683,D,Christopher,868,Christopher D,7.5,166,32,"Christopher D Carroll Department of Economics, Johns Hopkins University, Baltimore, Maryland (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",4513,0,0,0,(USA),0
+680,Blau,Francine,992,Francine Blau,2.0,125,28,"Francine Blau Department of Economics, Cornell University, Ithaca, New York (USA)",3178,0,0,0,(USA),0
+680,Rietveld,Piet,3427,Piet Rietveld,14.0,465,29,Piet Rietveld †,3294,0,0,0,None,0
+679,J,Stephen,5501,Stephen J,5.0,423,34,"Stephen J Turnovsky Department of Economics, University of Washington, Seattle, Washington (USA)",3721,0,0,0,(USA),0
+677,Vegh,Carlos,894,Carlos A. Vegh,1.5,146,29,"Carlos A. Vegh International Economics Department, School of Advanced International Studies, Johns Hopkins University, Washington, District of Columbia (USA)",3795,0,0,0,(USA),0
+677,Wieland,Volker,883,Volker Wieland,1.5,227,25,"Volker Wieland Fachbereich Wirtschaftswissenschaft, Goethe Universität Frankfurt am Main, Frankfurt am Main, Germany",2553,0,0,0, Germany,0
+676,"https://www.tilburguniversity.edu/research/economics-and-management/graduate-school,",Sylvester,1011,"Sylvester Eijffinger https://www.tilburguniversity.edu/research/economics-and-management/graduate-school,",2.0,384,23,"Sylvester Eijffinger https://www.tilburguniversity.edu/research/economics-and-management/graduate-school, School of Economics and Management, Universiteit van Tilburg, Tilburg, Netherlands",1874,0,0,0, Netherlands,0
+676,Department,Michele,919,Michele Boldrin Department,8.0,151,23,"Michele Boldrin Department of Economics, Washington University in St. Louis, St. Louis, Missouri (USA)",2423,0,0,0,(USA),0
+675,Lo,Andrew,1477,Andrew W. Lo,0.5,140,31,"Andrew W. Lo Sloan School of Management, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",5604,0,0,0,(USA),1
+669,MacDonald,Ronald,2613,Ronald MacDonald,1.0,341,31,"Ronald MacDonald Department of Economics, Adam Smith Business School, University of Glasgow, Glasgow, United Kingdom",3252,0,0,0, United Kingdom,0
+669,Winter-Ebmer,Rudolf,1167,Rudolf Winter-Ebmer,1.5,299,25,"Rudolf Winter-Ebmer Institut für Volkswirtschaftslehre, Johannes-Kepler-Universität Linz, Linz, Austria",1859,0,0,0, Austria,0
+668,Cecchetti,Stephen,1188,Stephen Cecchetti,2.0,173,34,"Stephen Cecchetti Department of Economics, International Business School, Brandeis University, Waltham, Massachusetts (USA)",3731,0,0,0,(USA),0
+667,Rubinstein,Ariel,1066,Ariel Rubinstein,1.0,220,34,"Ariel Rubinstein Eitan Berglas School of Economics, Tel Aviv University, Tel Aviv, Israel",5535,0,0,0, Israel,0
+665,Gennaioli,Nicola,1035,Nicola Gennaioli,0.5,154,21,"Nicola Gennaioli Dipartimento di Finanza, Università Commerciale Luigi Bocconi, Milano, Italy",1905,0,0,0, Italy,0
+664,Roth,Alvin,2174,Alvin E. Roth,9.0,232,40,"Alvin E. Roth Department of Economics, Stanford University, Stanford, California (USA)",6263,1,0,1,(USA),1
+663,Edward,Lee,895,Lee Edward,13.5,141,23,"Lee Edward Ohanian Department of Economics, University of California-Los Angeles (UCLA), Los Angeles, California (USA)",2416,0,0,0,(USA),0
+662,Robert,Menzie,1580,Menzie Chinn Robert,0.5,281,38,"Menzie Chinn Robert M. La Follette School of Public Affairs, University of Wisconsin-Madison, Madison, Wisconsin (USA)",5776,0,0,0,(USA),0
+654,Bardhan,Pranab,1305,Pranab K. Bardhan,2.5,204,26,"Pranab K. Bardhan Department of Economics, University of California-Berkeley, Berkeley, California (USA)",3100,0,0,0,(USA),1
+652,Jullien,Bruno,1098,Bruno Jullien,7.0,175,19,"Bruno Jullien Toulouse School of Economics (TSE), Toulouse, France",1772,0,0,0, France,0
+652,Hsiao,Cheng,1825,Cheng Hsiao,2.5,179,23,"Cheng Hsiao Department of Economics, University of Southern California, Los Angeles, California (USA)",2707,0,0,0,(USA),0
+649,Kotlikoff,Laurence,1681,Laurence J. Kotlikoff,3.0,388,33,"Laurence J. Kotlikoff Department of Economics, Boston University, Boston, Massachusetts (USA)",4314,0,0,0,(USA),0
+648,de,David,1771,David de,11.5,358,23,"David de la Croix Institut de Recherche Économique et Sociale (IRES), Louvain Institute of data Analysis and Modelling in Economics and Statistics (LIDAM), Université Catholique de Louvain, Louvain-la-Neuve, Belgium",2093,0,0,0, Belgium,0
+648,Hellwig,Martin,1586,Martin F. Hellwig,16.0,211,22,"Martin F. Hellwig Max-Planck-Institut zur Erforschung von Gemeinschaftsgütern, Max-Planck-Gesellschaft, Bonn, Germany",2625,0,0,0, Germany,0
+648,Gale,Jeffrey,1411,Jeffrey Gale,4.0,243,28,Jeffrey Gale Williamson,2819,0,0,0,Jeffrey Gale Williamson,0
+648,Brunello,Giorgio,1551,Giorgio Brunello,1.0,234,25,"Giorgio Brunello Dipartimento di Scienze Economiche ""Marco Fanno"", Università degli Studi di Padova, Padova, Italy",1930,0,0,0, Italy,0
+642,Edenhofer,Ottmar,1393,Ottmar Edenhofer,9.0,156,18,"Ottmar Edenhofer Mercator Research Institute on Global Commons and Climate Change (MCC), Berlin, GermanyFakultät Wirtschaft und Management, Technische Universität Berlin, Berlin, Germany",1314,0,0,0, Germany,0
+639,Owen,Robert,1511,Robert Owen,1.0,177,27,"Robert Owen Mendelsohn Economics Department, Yale University, New Haven, Connecticut (USA)",2813,0,0,0,(USA),1
+637,Ghatak,Maitreesh,1057,Maitreesh Ghatak,5.0,136,21,"Maitreesh Ghatak Economics Department, London School of Economics (LSE), London, United Kingdom",2038,0,0,0, United Kingdom,1
+632,Warren,Thomas,2359,Thomas Warren,4.5,404,25,"Thomas Warren Hertel Center for Global Trade Analysis (GTAP), Department of Agricultural Economics, Purdue University, West Lafayette, Indiana (USA)",3108,0,0,0,(USA),0
+629,Verdier,Thierry,2029,Thierry A. Verdier,10.0,416,32,"Thierry A. Verdier Paris School of Economics, Paris, France",4164,0,0,0, France,0
+627,Winters,L.,1584,L. Alan Winters,4.0,240,25,"L. Alan Winters Department of Economics, Sussex Business School, University of Sussex, Brighton, United Kingdom",2275,0,0,0, United Kingdom,0
+624,Rigobon,Roberto,975,Roberto Rigobon,1.5,130,30,"Roberto Rigobon Sloan School of Management, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",3112,0,0,0,(USA),1
+623,Rasul,Imran,1319,Imran Rasul,5.0,145,25,"Imran Rasul Department of Economics, University College London (UCL), London, United Kingdom",2440,0,0,0, United Kingdom,0
+622,Propper,Carol,1563,Carol Propper,3.5,254,24,"Carol Propper Business School, Imperial College, London, United Kingdom",1836,0,0,0, United Kingdom,0
+621,Walter,Paul,918,Paul Gertler Walter,1.0,122,22,"Paul Gertler Walter A. Haas School of Business, University of California-Berkeley, Berkeley, California (USA)",2251,0,0,0,(USA),1
+616,Georg,Martin,895,Martin Georg,2.0,225,25,"Martin Georg Kocher Institut für Höhere Studien (IHS), Wien, Austria",2019,0,0,0, Austria,0
+614,Jackson,Matthew,2629,Matthew O. Jackson,3.5,264,40,"Matthew O. Jackson Department of Economics, Stanford University, Stanford, California (USA)",4866,1,0,0,(USA),1
+614,Waldfogel,Joel,1257,Joel Waldfogel,2.0,128,23,"Joel Waldfogel Carlson School of Management, University of Minnesota, Minneapolis, Minnesota (USA)",1594,0,0,0,(USA),0
+610,Sadoulet,Elisabeth,1914,Elisabeth Sadoulet,2.5,260,25,"Elisabeth Sadoulet Department of Agricultural and Resource Economics, University of California-Berkeley, Berkeley, California (USA)",2748,0,0,0,(USA),1
+610,Cremer,Helmuth,2694,Helmuth Cremer,2.0,531,28,"Helmuth Cremer Institut d'Économie Industrielle (IDEI), Toulouse School of Economics (TSE), Toulouse, FranceGroupe de Recherche en Économie Mathématique et Quantitative (GREMAQ), Toulouse School of Economics (TSE), Toulouse, France",2893,0,0,0, France,0
+609,von,Juergen,1653,Juergen von,8.5,265,31,"Juergen von Hagen Centre for Economic Policy Research (CEPR), London, United Kingdom",3059,0,0,0, United Kingdom,0
+605,Cutler,David,782,David M. Cutler,8.5,248,30,"David M. Cutler Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",4057,0,0,0,(USA),1
+602,Laffont,Jean-Jacques,3556,Jean-Jacques Laffont,8.5,328,43,Jean-Jacques Laffont †,7367,0,0,0,None,0
+602,Blonigen,Bruce,854,Bruce A. Blonigen,3.0,144,24,"Bruce A. Blonigen Department of Economics, University of Oregon, Eugene, Oregon (USA)",2411,0,0,0,(USA),0
+600,Johannesson,Magnus,1686,Magnus Johannesson,8.0,185,33,"Magnus Johannesson Department of Economics, Handelshögskolan i Stockholm, Stockholm, Sweden",3687,0,0,0, Sweden,0
+599,R,Bruno,1275,Bruno R,7.0,166,21,"Bruno R Biais Institut d'Économie Industrielle (IDEI), Toulouse School of Economics (TSE), Toulouse, France",2060,0,0,0, France,0
+594,Whalley,John,2946,John Whalley,4.5,432,23,"John Whalley Department of Economics, University of Western Ontario, London, Canada",3263,0,0,0, Canada,0
+588,Department,Ping,1986,Ping Wang Department,7.0,250,18,"Ping Wang Department of Economics, Washington University in St. Louis, St. Louis, Missouri (USA)",1370,0,0,0,(USA),0
+587,Goyal,Sanjeev,1114,Sanjeev Goyal,3.5,131,22,"Sanjeev Goyal Faculty of Economics, University of Cambridge, Cambridge, United Kingdom",1893,0,0,0, United Kingdom,0
+586,Nayga,Rodolfo,2993,Rodolfo M. Nayga,1.0,383,17,"Rodolfo M. Nayga Jr.Department of Agricultural Economics and Agribusiness, University of Arkansas, Fayetteville, Arkansas (USA)",1214,0,0,0,(USA),0
+585,Geweke,John,1086,John Geweke,15.0,124,33,"John Geweke Economics Discipline Group, Business School, University of Technology Sydney, Sydney, Australia",3177,0,0,0, Australia,0
+579,Hooi,Hooi,1365,Hooi Hooi,1.0,140,19,"Hooi Hooi Lean Economics, Universiti Sains Malaysia, Minden, Malaysia",1563,0,0,0, Malaysia,0
+579,Coate,Stephen,1111,Stephen Coate,6.0,122,30,"Stephen Coate Department of Economics, Cornell University, Ithaca, New York (USA)",4338,0,0,0,(USA),0
+579,A.,Roger,1012,Roger E. A.,4.5,213,23,"Roger E. A. Farmer Department of Economics, University of California-Los Angeles (UCLA), Los Angeles, California (USA)Department of Economics, University of Warwick, Coventry, United Kingdom",2408,0,0,0, United Kingdom,0
+576,Bound,John,944,John Bound,1.5,126,30,"John Bound Economics Department, University of Michigan, Ann Arbor, Michigan (USA)",4757,0,0,0,(USA),0
+575,Kehoe,Timothy,1524,Timothy J. Kehoe,69.0,216,30,"Timothy J. Kehoe Department of Economics, University of Minnesota, Minneapolis, Minnesota (USA)",3290,0,0,0,(USA),0
+575,Crespo,Jesus,1305,Jesus Crespo,3.0,196,18,"Jesus Crespo Cuaresma Institut für Makroökonomie, Department Volkswirtschaft, WU Wirtschaftsuniversität Wien, Wien, Austria",1194,0,0,0, Austria,0
+574,Cawley,John,916,John Cawley,0.5,143,23,"John Cawley Department of Policy Analysis and Management, College of Human Ecology, Cornell University, Ithaca, New York (USA)",2108,0,0,0,(USA),0
+566,Schmidt,Christoph,1729,Christoph M. Schmidt,16.5,406,19,"Christoph M. Schmidt RWI - Leibniz-Institut für Wirtschaftsforschung, Essen, Germany",1566,0,0,0, Germany,0
+566,de,Jaime,1899,Jaime A.P. de,1.5,408,20,"Jaime A.P. de Melo Fondation pour les études et recherches sur le développment international (FERDI), Clermont-Ferrand, France",1526,0,0,0, France,0
+564,Gabaix,Xavier,1200,Xavier Gabaix,2.5,143,34,"Xavier Gabaix Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",5190,0,0,0,(USA),1
+558,Teodoor,Erik,2009,Erik Teodoor,2.5,258,20,"Erik Teodoor Verhoef Afdeling Ruimtelijke Economie, School of Business and Economics, Vrije Universiteit Amsterdam, Amsterdam, Netherlands",1482,0,0,0, Netherlands,0
+557,Calomiris,Charles,1591,Charles W. Calomiris,1.0,188,28,Charles W. Calomiris,2892,0,0,0,Charles W. Calomiris,0
+557,Martimort,David,2348,David Martimort,3.0,335,23,"David Martimort Paris School of Economics, Paris, France",1943,0,0,0, France,0
+555,Billio,Monica,843,Monica Billio,5.0,171,15,"Monica Billio Dipartimento di Economia, Università Ca' Foscari Venezia, Venezia, Italy",1108,0,0,0, Italy,0
+554,John,Robert,1934,Robert John,1.0,165,21,Robert John LaLonde †,2883,0,0,0,None,0
+552,Thomas,Duncan,889,Duncan Thomas,1.0,129,28,"Duncan Thomas Department of Economics, Duke University, Durham, North Carolina (USA)",3688,0,0,0,(USA),0
+551,Phelps,Edmund,1499,Edmund S. Phelps,0.5,164,21,"Edmund S. Phelps Department of Economics, School of Arts and Sciences, Columbia University, New York City, New York (USA)",2675,0,0,1,(USA),1
+546,Carson,Richard,858,Richard T. Carson,4.0,119,25,"Richard T. Carson Department of Economics, University of California-San Diego (UCSD), La Jolla, California (USA)",2606,0,0,0,(USA),0
+544,James,Martin,1462,Martin James,1.5,188,31,"Martin James Browning Department of Economics, Oxford University, Oxford, United Kingdom",4508,0,0,0, United Kingdom,0
+534,Hallin,Marc,1086,Marc Hallin,2.0,321,15,"Marc Hallin European Centre for Advanced Research in Economics and Statistics (ECARES), Solvay Brussels School of Economics and Management, Université Libre de Bruxelles, Bruxelles, Belgium",2341,0,0,0, Belgium,0
+533,Bagwell,Kyle,1667,Kyle Bagwell,1.0,181,25,"Kyle Bagwell Department of Economics, Stanford University, Stanford, California (USA)",2746,0,0,0,(USA),1
+530,Shapiro,Matthew,808,Matthew D. Shapiro,4.5,158,30,"Matthew D. Shapiro Economics Department, University of Michigan, Ann Arbor, Michigan (USA)",3585,0,0,0,(USA),0
+528,J,Shelly,775,Shelly J,1.0,121,26,"Shelly J Lundberg Department of Economics, University of California-Santa Barbara (UCSB), Santa Barbara, California (USA)",2772,0,0,0,(USA),0
+527,Chiappori,Pierre,1832,Pierre Chiappori,1.5,216,32,"Pierre Chiappori Department of Economics, School of Arts and Sciences, Columbia University, New York City, New York (USA)",5049,0,0,0,(USA),1
+526,Vives,Xavier,4559,Xavier Vives,1.5,379,30,"Xavier Vives IESE Business School, Universidad de Navarra, Barcelona, Spain",4471,0,0,0, Spain,0
+525,Leon-Ledesma,Miguel,843,Miguel Leon-Ledesma,4.5,135,17,"Miguel Leon-Ledesma School of Economics, University of Kent, Canterbury, United Kingdom",1105,0,0,0, United Kingdom,0
+525,Sapir,Andre,950,Andre Sapir,2.0,346,20,"Andre Sapir European Centre for Advanced Research in Economics and Statistics (ECARES), Solvay Brussels School of Economics and Management, Université Libre de Bruxelles, Bruxelles, BelgiumBruegel, Bruxelles/Brussel, Belgium",1552,0,0,0, Belgium,0
+524,Schiantarelli,Fabio,870,Fabio Schiantarelli,9.5,152,26,"Fabio Schiantarelli Department of Economics, Boston College, Chestnut Hill, Massachusetts (USA)",2487,0,0,0,(USA),0
+520,Lang,Kevin,1008,Kevin Lang,19.5,132,27,"Kevin Lang Department of Economics, Boston University, Boston, Massachusetts (USA)",2389,0,0,0,(USA),0
+516,Lockwood,Ben,1132,Ben Lockwood,3.5,211,23,"Ben Lockwood Department of Economics, University of Warwick, Coventry, United Kingdom",2129,0,0,0, United Kingdom,0
+515,Willem,Jan,886,Jan Willem,2.5,124,17,"Jan Willem Gunning Afdeling Ontwikkelings Economie, School of Business and Economics, Vrije Universiteit Amsterdam, Amsterdam, Netherlands",1303,0,0,0, Netherlands,0
+511,Bauer,Thomas,776,Thomas K. Bauer,13.0,215,24,"Thomas K. Bauer RWI - Leibniz-Institut für Wirtschaftsforschung, Essen, Germany",1639,0,0,0, Germany,0
+510,Buch,Claudia,1631,Claudia M. Buch,1.5,300,23,"Claudia M. Buch Deutsche Bundesbank, Frankfurt, Germany",1938,0,0,0, Germany,0
+509,Antonelli,Cristiano,1913,Cristiano Antonelli,1.0,293,18,"Cristiano Antonelli Dipartimento di Economia e Statistica ""Cognetti de Martiis"", Università degli Studi di Torino, Torino, ItalyCollegio Carlo Alberto, Università degli Studi di Torino, Moncalieri, Italy",1036,0,0,0, Italy,0
+507,Keith,Andrew,1290,Andrew Keith,1.0,180,23,"Andrew Keith Leigh Research School of Economics, College of Business and Economics, Australian National University, Canberra, AustraliaInstitute of Labor Economics (IZA), Bonn, Germany",1322,0,0,0, Germany,0
+506,Quigley,John,1795,John M. Quigley,1.0,290,32,John M. Quigley †,3642,0,0,0,None,0
+506,Crossley,Thomas,913,Thomas F. Crossley,1.5,221,16,"Thomas F. Crossley Department of Economics, European University Institute, Firenze, Italy",1192,0,0,0, Italy,0
+504,Granger,Andrew,785,Andrew Granger,2.5,134,24,"Andrew Granger Atkeson Department of Economics, University of California-Los Angeles (UCLA), Los Angeles, California (USA)",2451,0,0,0,(USA),0
+489,Maurin,Eric,1071,Eric Maurin,4.0,209,22,"Eric Maurin Paris School of Economics, Paris, France",1193,0,0,0, France,0
+483,Burgess,Simon,1177,Simon Burgess,4.0,215,22,"Simon Burgess Centre for Market and Public Organisation (CMPO), School of Economics, Finance and Management, University of Bristol, Bristol, United KingdomSchool of Economics, Finance and Management, University of Bristol, Bristol, United Kingdom",1878,0,0,0, United Kingdom,0
+483,Robin,Jean-Marc,1381,Jean-Marc Robin,4.5,250,22,"Jean-Marc Robin Department of Economics, Sciences économiques, Sciences Po, Paris, France",1853,0,0,0, France,0
+483,Zilberman,David,3024,David Zilberman,3.5,431,30,"David Zilberman Department of Agricultural and Resource Economics, University of California-Berkeley, Berkeley, California (USA)",3715,0,0,0,(USA),1
+479,Fujita,Masahisa,1509,Masahisa Fujita,1.0,144,23,"Masahisa Fujita Institute of Economic Research, Kyoto University, Kyoto, Japan",2935,0,0,0, Japan,0
+478,C,Catherine,1191,Catherine C,3.0,122,25,"Catherine C Eckel Department of Economics, Texas A&M University, College Station, Texas (USA)",3441,0,0,0,(USA),0
+478,Florax,Raymond,1028,Raymond J.G.M. Florax,6.5,183,18,Raymond J.G.M. Florax †,1866,0,0,0,None,0
+477,Shephard,Neil,1336,Neil Shephard,1.0,198,29,"Neil Shephard Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",6108,0,0,0,(USA),1
+475,Bloch,Francis,961,Francis Bloch,4.0,191,17,"Francis Bloch Paris School of Economics, Paris, France",1162,0,0,0, France,0
+475,Siegel,Donald,1326,Donald S. Siegel,1.0,135,33,"Donald S. Siegel School of Public Affairs, Arizona State University, Phoenix, Arizona (USA)",4401,0,0,0,(USA),0
+474,Preston,Randolph,1396,Randolph Preston,2.0,131,31,Randolph Preston McAfee,3679,0,0,0,Randolph Preston McAfee,0
+474,ifo,Hans-Werner,6365,Hans-Werner Sinn ifo,4.0,641,31,"Hans-Werner Sinn ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e.V., München, Germany",3296,0,0,0, Germany,0
+473,Demos,Ronald,1006,Ronald Demos,1.0,117,19,"Ronald Demos Lee Center on the Economics and Demography of Aging (CEDA), University of California-Berkeley, Berkeley, California (USA)",1551,0,0,0,(USA),1
+473,David,Sir,1792,Sir David,2.5,182,31,"Sir David Greenaway Nottingham Centre for Research on Globalisation and Economic Policy, School of Economics, University of Nottingham, Nottingham, United Kingdom",3765,0,0,0, United Kingdom,0
+469,Otto,Arthur,1686,Arthur Herman Otto,2.0,369,29,"Arthur Herman Otto Van Soest https://www.tilburguniversity.edu/research/economics-and-management/graduate-school, School of Economics and Management, Universiteit van Tilburg, Tilburg, Netherlands",3093,0,0,0, Netherlands,0
+469,Monfort,Alain,1844,Alain Monfort,1.0,172,19,"Alain Monfort Centre de Recherche en Économie et Statistique (CREST), Palaiseau, France",2385,0,0,0, France,0
+469,Jan,Siem,1751,Siem Jan,2.0,241,25,"Siem Jan Koopman Afdeling Econometrie and Operations Research, School of Business and Economics, Vrije Universiteit Amsterdam, Amsterdam, Netherlands",2992,0,0,0, Netherlands,0
+469,Alan,Frank,1060,Frank Alan,2.0,223,24,"Frank Alan Cowell Suntory and Toyota International Centres for Economics and Related Disciplines (STICERD), London School of Economics (LSE), London, United Kingdom",1996,0,0,0, United Kingdom,1
+467,Konrad,Kai,2043,Kai A. Konrad,1.0,432,23,"Kai A. Konrad Max-Planck-Institut für Steuerrecht und öffentliche Finanzen, Max-Planck-Gesellschaft, München, Germany",2494,0,0,0, Germany,0
+465,Breitung,Jorg,823,Jorg Breitung,1.0,126,18,"Jorg Breitung Institut für Ökonometrie und OR, Rheinische Friedrich-Wilhelms-Universität Bonn, Bonn, Germany",1516,0,0,0, Germany,0
+464,Gordon,Robert,1810,Robert J. Gordon,0.5,233,31,"Robert J. Gordon Department of Economics, Northwestern University, Evanston, Illinois (USA)",3406,0,0,0,(USA),0
+463,Smith,Bruce,2656,Bruce D. Smith,3.5,190,30,Bruce D. Smith †,3280,0,0,0,None,0
+460,Miller,Paul,2009,Paul W. Miller,0.5,213,22,Paul W. Miller †,1811,0,0,1,(USA),0
+457,Case,Anne,879,Anne Case,0.5,162,32,"Anne Case Department of Economics, Princeton University, Princeton, New Jersey (USA)Woodrow Wilson School of Public and International Affairs, Princeton University, Princeton, New Jersey (USA)",5668,0,0,0,(USA),1
+454,David,Richard,825,Richard David,3.5,161,16,"Richard David Portes Department of Economics, London Business School (LBS), London, United Kingdom",1718,0,0,0, United Kingdom,0
+454,Golosov,Mikhail,763,Mikhail Golosov,1.0,117,18,"Mikhail Golosov Department of Economics, University of Chicago, Chicago, Illinois (USA)",1515,0,0,0,(USA),1
+451,Baird,Eric,826,Eric Baird,1.0,113,15,"Eric Baird French Department of Economics, University College London (UCL), London, United Kingdom",1187,0,0,0, United Kingdom,0
+449,Panagariya,Arvind,1531,Arvind Panagariya,3.0,167,18,"Arvind Panagariya School of International and Public Affairs (SIPA), Columbia University, New York City, New York (USA)",1273,0,0,0,(USA),1
+448,Staiger,Robert,1752,Robert W. Staiger,15.0,197,22,"Robert W. Staiger Economics Department, Dartmouth College, Hanover, New Hampshire (USA)",2119,0,0,0,(USA),0
+447,Mookherjee,Dilip,2129,Dilip Mookherjee,1.0,207,30,"Dilip Mookherjee Institute for Economic Development, Department of Economics, Boston University, Boston, Massachusetts (USA)",2946,0,0,0,(USA),0
+443,Bertola,Giuseppe,2416,Giuseppe Bertola,1.5,259,27,"Giuseppe Bertola Dipartimento di Economia e Statistica ""Cognetti de Martiis"", Università degli Studi di Torino, Torino, Italy",3415,0,0,0, Italy,0
+442,Cropper,Maureen,995,Maureen L. Cropper,1.0,135,25,"Maureen L. Cropper Department of Economics, University of Maryland, College Park, Maryland (USA)Resources for the Future (RFF), Washington, District of Columbia (USA)",2705,0,0,0,(USA),0
+441,Sunder,Shyam,1395,Shyam Sunder,1.0,198,19,"Shyam Sunder School of Management, Yale University, New Haven, Connecticut (USA)",1698,0,0,0,(USA),1
+440,Francesconi,Marco,1122,Marco Francesconi,1.0,155,20,"Marco Francesconi Economics Department, University of Essex, Colchester, United Kingdom",1586,0,0,0, United Kingdom,0
+439,Marinacci,Massimo,1624,Massimo Marinacci,1.0,172,23,"Massimo Marinacci Innocenzo Gasparini Institute for Economic Research (IGIER), Università Commerciale Luigi Bocconi, Milano, ItalyDipartimento di Scienze delle Decisioni, Università Commerciale Luigi Bocconi, Milano, Italy",2516,0,0,0, Italy,0
+436,Gabszewicz,Jean,1025,Jean Gabszewicz,2.0,314,16,"Jean Gabszewicz Center for Operations Research and Econometrics (CORE), Louvain Institute of data Analysis and Modelling in Economics and Statistics (LIDAM), Université Catholique de Louvain, Louvain-la-Neuve, Belgium",2353,0,0,0, Belgium,0
+435,Cooper,Russell,1260,Russell Cooper,2.0,220,30,"Russell Cooper Department of Economics, Pennsylvania State University, State College, Pennsylvania (USA)",3320,0,0,0,(USA),0
+435,Kirman,Alan,1286,Alan Kirman,2.5,164,21,"Alan Kirman Centre d'analyse et de mathématiques sociales (CAMS), École des Hautes Études en Sciences Sociales (EHESS), Paris, France",1990,0,0,0, France,0
+433,Duclos,Jean-Yves,1336,Jean-Yves Duclos,1.0,231,17,"Jean-Yves Duclos Centre de Recherche sur les Risques, les Enjeux Économiques et les Politiques Publiques (CRREP), Montréal/Québec, CanadaDépartement d'Économique, Université Laval, Québec, Canada",1460,0,0,0, Canada,0
+432,Ullah,Aman,1086,Aman Ullah,3.0,170,16,"Aman Ullah Department of Economics, University of California-Riverside, Riverside, California (USA)",1372,0,0,0,(USA),0
+430,Mailath,George,1299,George J. Mailath,9.0,247,23,"George J. Mailath Department of Economics, University of Pennsylvania, Philadelphia, Pennsylvania (USA)",2728,0,0,0,(USA),0
+427,Klaus,Joachim,857,Joachim Klaus,1.5,246,19,"Joachim Klaus Winter Volkswirtschaftliche Fakultät, Ludwig-Maximilians-Universität München, München, Germany",1329,0,0,0, Germany,0
+426,Saggi,Kamal,1437,Kamal Saggi,1.0,171,22,"Kamal Saggi Department of Economics, Vanderbilt University, Nashville, Tennessee (USA)",1809,0,0,0,(USA),0
+424,Corneo,Giacomo,1063,Giacomo Corneo,2.0,150,21,"Giacomo Corneo Abteilung Volkswirtschaftslehre, Fachbereich Wirtschaftswissenschaft, Freie Universität Berlin, Berlin, Germany",1404,0,0,0, Germany,0
+422,Schmidt,Klaus,856,Klaus M. Schmidt,1.0,192,25,"Klaus M. Schmidt Volkswirtschaftliche Fakultät, Ludwig-Maximilians-Universität München, München, Germany",4833,0,0,0, Germany,0
+421,Addison,John,2337,John Addison,1.5,307,22,"John Addison Economics Department, Darla Moore School of Business, University of South Carolina, Columbia, South Carolina (USA)",1815,0,0,0,(USA),0
+421,Maskin,Eric,1411,Eric S. Maskin,45.5,195,43,"Eric S. Maskin Department of Economics, Harvard University, Cambridge, Massachusetts (USA)",7515,0,0,1,(USA),1
+420,Sefton,Martin,946,Martin Sefton,2.0,143,21,"Martin Sefton School of Economics, University of Nottingham, Nottingham, United KingdomCentre for Decision Research and Experimental Economics (CeDEx), School of Economics, University of Nottingham, Nottingham, United Kingdom",1976,0,0,0, United Kingdom,0
+419,Kapteyn,Arie,1369,Arie Kapteyn,0.5,264,23,"Arie Kapteyn Department of Economics, University of Southern California, Los Angeles, California (USA)",1995,0,0,0,(USA),0
+419,Williamson,Stephen,1325,Stephen D. Williamson,11.5,130,19,"Stephen D. Williamson Department of Economics, University of Western Ontario, London, Canada",1580,0,0,0, Canada,0
+418,Townsend,Robert,1744,Robert M. Townsend,9.0,147,27,"Robert M. Townsend Department of Economics, University of Chicago, Chicago, Illinois (USA)Economics Department, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",4154,0,0,0,(USA),1
+417,Chavas,Jean-Paul,2731,Jean-Paul Chavas,1.0,326,25,"Jean-Paul Chavas Department of Agricultural & Applied Economics, University of Wisconsin-Madison, Madison, Wisconsin (USA)",2229,0,0,0,(USA),0
+415,C.V.,Alberto,1029,Alberto Bisin C.V.,1.0,141,21,"Alberto Bisin C.V. Starr Center for Applied Economics, Department of Economics, New York University (NYU), New York City, New York (USA)National Bureau of Economic Research (NBER), Cambridge, Massachusetts (USA)",2218,0,0,0,(USA),1
+415,Knittel,Christopher,1039,Christopher R. Knittel,2.0,128,20,"Christopher R. Knittel Sloan School of Management, Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts (USA)",1650,0,0,0,(USA),1
+412,Cason,Timothy,1717,Timothy Cason,7.0,160,28,"Timothy Cason Department of Economics, Krannert School of Management, Purdue University, West Lafayette, Indiana (USA)",2327,0,0,0,(USA),0
+412,Bargain,Olivier,1316,Olivier Bargain,1.5,258,16,"Olivier Bargain Laboratoire d'Analyse et de Recherche Économiques et Finance Internationales (LAREFI), Université de Bordeaux, Bordeaux, France",1095,0,0,0, France,0
+405,Wickens,Michael,881,Michael R. Wickens,1.0,158,17,"Michael R. Wickens Department of Economics and Related Studies, University of York, York, United Kingdom",924,0,0,0, United Kingdom,0
+403,Taylor,J.,1008,J. Edward Taylor,0.5,137,20,"J. Edward Taylor Department of Agricultural and Resource Economics, University of California-Davis, Davis, California (USA)",1868,0,0,0,(USA),0
+402,Oxley,Les,1974,Les Oxley,1.0,233,19,"Les Oxley Department of Economics, Waikato Management School, University of Waikato, Hamilton, New Zealand",1197,0,0,0, New Zealand,0
+401,Weibull,Jorgen,919,Jorgen W. Weibull,1.0,179,20,"Jorgen W. Weibull Department of Economics, Handelshögskolan i Stockholm, Stockholm, Sweden",2218,0,0,0, Sweden,0
+398,Cornelis,Gerrit,1767,Gerrit Cornelis,1.0,402,16,"Gerrit Cornelis van Kooten Department of Economics, University of Victoria, Victoria, Canada",1048,0,0,0, Canada,0
+397,Danthine,Jean-Pierre,774,Jean-Pierre Danthine,2.0,155,20,"Jean-Pierre Danthine Paris School of Economics, Paris, France",1189,0,0,0, France,0
+392,Walker,Ian,1070,Ian Walker,2.0,189,23,"Ian Walker Institute of Labor Economics (IZA), Bonn, GermanyDepartment of Economics, Management School, Lancaster University, Lancaster, United Kingdom",2017,0,0,0, United Kingdom,0
+389,Cooley,Thomas,1254,Thomas F. Cooley,2.0,155,25,"Thomas F. Cooley Economics Department, Stern School of Business, New York University (NYU), New York City, New York (USA)",2533,0,0,0,(USA),1
+386,Mercier,Michael,1242,Michael Mercier,2.5,217,22,"Michael Mercier Hutchison Economics Department, University of California-Santa Cruz (UCSC), Santa Cruz, California (USA)",1936,0,0,0,(USA),0
+385,Bernhardt,Dan,2100,Dan Bernhardt,11.0,147,16,"Dan Bernhardt Department of Economics, University of Illinois at Urbana-Champaign, Urbana-Champaign, Illinois (USA)Department of Economics, University of Warwick, Coventry, United Kingdom",1011,0,0,0, United Kingdom,0
+385,H.,Martin,891,Martin Gaynor H.,4.0,114,19,"Martin Gaynor H. John Heinz III School of Public Policy and Management, Carnegie Mellon University, Pittsburgh, Pennsylvania (USA)",1136,0,0,0,(USA),0
+382,Vayanos,Dimitri,1050,Dimitri Vayanos,0.5,127,20,"Dimitri Vayanos Finance Department, London School of Economics (LSE), London, United Kingdom",1977,0,0,0, United Kingdom,1
+382,Withagen,Cees,1229,Cees Withagen,0.5,168,19,"Cees Withagen Institut de Préparation à l'Administration et à la Gestion (IPAG), Paris, France",1050,0,0,0, France,0
+379,Selten,Reinhard,1265,Reinhard Selten,3.5,159,25,Reinhard Selten †,2476,0,0,1,Germany,0
+374,Poncet,Sandra,829,Sandra Poncet,1.0,226,16,"Sandra Poncet Centre d'études prospectives et d'informations internationales (CEPII), Paris, FranceParis School of Economics, Paris, France",1142,0,0,0, France,0
+371,Chatterjee,Satyajit,779,Satyajit Chatterjee,0.5,138,16,"Satyajit Chatterjee Research Department, Federal Reserve Bank of Philadelphia, Philadelphia, Pennsylvania (USA)",1269,0,0,0,(USA),0
+369,Peracchi,Franco,953,Franco Peracchi,12.0,148,15,"Franco Peracchi Economics Department, Georgetown University, Washington, District of Columbia (USA)",1024,0,0,0,(USA),0
+367,William,George,1633,George William,6.0,273,26,"George William Evans Department of Economics, University of Oregon, Eugene, Oregon (USA)",2234,0,0,0,(USA),0
+363,Girma,Sourafel,1197,Sourafel Girma,0.5,150,25,"Sourafel Girma School of Economics, University of Nottingham, Nottingham, United Kingdom",2091,0,0,0, United Kingdom,0
+360,Palfrey,Thomas,1995,Thomas R. Palfrey,1.0,247,31,"Thomas R. Palfrey Division of Social Sciences, California Institute of Technology, Pasadena, California (USA)",3725,0,0,0,(USA),0
