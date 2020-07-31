@@ -7,9 +7,9 @@ import pickle
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-# Penguin Prediction App
-This app predicts the **Palmer Penguin** species!
-Data obtained from the [palmerpenguins library](https://github.com/allisonhorst/palmerpenguins) in R by Allison Horst.
+# Economics Nobel Prize Prediction App
+This app predicts whether an economist is likely to be rewarded with a nobel prize in the future!
+Data obtained from the [IDEAD RePEc project](https://ideas.repec.org/top/top.person.alldetail.html).
 """)
 
 st.sidebar.header('User Input Features')
@@ -28,16 +28,16 @@ def user_input_features():
         descri_len = st.sidebar.slider('Description length', 0,30,10)
         len_work = st.sidebar.slider('Number of pages per work', 0,10,5)
 
-        data = {'top10_uni': top10_shangai_yn,
-                'usa_yn': usa_yn,
-                'clark_yn': clark,
-                'vn_yn': vn_award,
-                'nb_downl': nb_downl,
+        data = {'nb_downl': nb_downl,
                 'nb_pages': nb_pages,
                 'nb_stud': Students,
                 'nb_works': nb_works,
                 'h_index': h_index,
                 'nb_cit': nb_cit,
+                'vn_yn': vn_award,
+                'clark_yn': clark,
+                'top10_uni': top10_shangai_yn,
+                'usa_yn': usa_yn,
                 'descri_len': descri_len,
                 'len_work': len_work}
         features = pd.DataFrame(data, index=[0])
@@ -77,8 +77,8 @@ prediction_proba = load_rfus.predict_proba(input_df)
 
 
 st.subheader('Prediction')
-#nobel_yn = np.array([0, 1])
-st.write(prediction)
+nobel_yn = np.array(['Non Nobel winner', 'Nobel winner'])
+st.write(nobel_yn[prediction])
 
-#st.subheader('Prediction Probability')
-#st.write(prediction_proba)
+st.subheader('Prediction Probability')
+st.write(prediction_proba)
