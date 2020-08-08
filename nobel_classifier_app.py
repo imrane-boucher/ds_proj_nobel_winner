@@ -14,6 +14,10 @@ Data obtained from the [IDEAD RePEc project](https://ideas.repec.org/top/top.per
 
 st.sidebar.header('User Input Features')
 
+st.sidebar.markdown("""
+[Example Darcon Acemoglu CSV input file]()
+""")
+
 def user_input_features():
         nb_downl = st.sidebar.slider('Number of downloads', 0,10000,5000)
         nb_pages = st.sidebar.slider('Number of pages', 0,10000,5000)
