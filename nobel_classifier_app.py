@@ -6,6 +6,8 @@ import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
 
+st.set_option('deprecation.showfileUploaderEncoding', False)
+
 st.write("""
 # Economics Nobel Prize Prediction App
 This app predicts whether an economist is likely to be rewarded with a nobel prize in the future!
@@ -15,10 +17,24 @@ Data obtained from the [IDEAD RePEc project](https://ideas.repec.org/top/top.per
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-[Example Darcon Acemoglu CSV input file]()
+[Example Esther Duflo CSV input file](https://raw.githubusercontent.com/imrane-boucher/ds_proj_nobel_winner/master/examples/esther_duflo.csv)
+""")
+st.sidebar.markdown("""
+[Example Darcon Acemoglu CSV input file](https://raw.githubusercontent.com/imrane-boucher/ds_proj_nobel_winner/master/examples/daron_acemoglu.csv)
+""")
+st.sidebar.markdown("""
+[Example Matthew D. Shapiro CSV input file](https://raw.githubusercontent.com/imrane-boucher/ds_proj_nobel_winner/master/examples/matthew_d_shapiro.csv)
 """)
 
-def user_input_features():
+# Collects user input features into dataframe
+uploaded_file = st.sidebar.file_uploader("Upload your input CSV file", 
+type=['csv'])
+
+
+if uploaded_file is not None:
+    input_df = pd.read_csv(uploaded_file)
+else:
+    def user_input_features():
         nb_downl = st.sidebar.slider('Number of downloads', 0,10000,5000)
         nb_pages = st.sidebar.slider('Number of pages', 0,10000,5000)
         Students = st.sidebar.slider('Number of students', 0,100,10)
@@ -46,31 +62,21 @@ def user_input_features():
                 'len_work': len_work}
         features = pd.DataFrame(data, index=[0])
         return features
-input_df = user_input_features()
-print(input_df.head())
-    # Combines user input features with entire penguins dataset
-# This will be useful for the encoding phase
+    input_df = user_input_features()
+
+ 
 df_model = pd.read_csv('data/model_nobel.csv')
 df_features = df_model.drop(columns=['nobel'])
-#df = pd.concat([input_df,penguins],axis=0)
 
-# Encoding of ordinal features
-# https://www.kaggle.com/pratik1120/penguin-dataset-eda-classification-and-clustering
-#encode = ['top10_uni','usa_yn','clark_yn', 'vn_yn']
-#for col in encode:
-#    dummy = pd.get_dummies(input_df[col], prefix=col)
-#    input_df = pd.concat([input_df,dummy], axis=1)
-#    del input_df[col]
-#df = df[:1] # Selects only the first row (the user input data)
 
 # Displays the user input features
 st.subheader('User Input features')
 
-#if uploaded_file is not None:
-#    st.write(df)
-#else:
-    #st.write('Awaiting CSV file to be uploaded. Currently using example input parameters (shown below).')
-st.write(input_df)
+if uploaded_file is not None:
+    st.write(input_df)
+else:
+    st.write('Awaiting CSV file to be uploaded. Currently using example input parameters (shown below).')
+    st.write(input_df)
 
 # Reads in saved classification model
 load_rfus = pickle.load(open('nobel_rfus.pkl', 'rb'))
