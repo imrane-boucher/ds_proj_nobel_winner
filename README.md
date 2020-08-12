@@ -19,10 +19,15 @@ correctly recognize true Nobel prize winners **(recall score: 88%)** using a ran
 ## Code and Ressources used:
 
 **Python version**: 3.7
-**Packages**: Pandas, NumPy, sickit-learn, matplotlib, seaborn, beautifulsoup, pickle, streamlit, re
+
+**Packages**: ```Pandas, NumPy, sickit-learn, matplotlib, seaborn, beautifulsoup, pickle, streamlit, re```
+
 **Project structure (amazing youtube serie from Ken Jee)**: https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
 **web scraping tutorial youtube**: https://www.youtube.com/watch?v=GjKQ6V_ViQE
+
 **model buidling & fitting unbalanced datasets**: https://machinelearningmastery.com/
+
 **streamlit app**: https://github.com/dataprofessor/code/blob/master/streamlit/part3/penguins-app.py
 
 ## Web Scraping:
