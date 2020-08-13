@@ -48,3 +48,13 @@ Used beautiful soup to scrape over 2000 economists academic record. For each eco
 + *descri_len* (length in words of the economist's description)*
 + *len_work* (average number of pages of the work published by the economist) 
 
+## Data Cleaning:
+
+Once the data scraped, it took a few step to clean and prepare the data for modelling:
+* merged into one dataframe all the data collected and check for duplicate rows
+* check for null values 
+* engineer columns for John Bates clark medal, the Von Neumann award, the affiliate university and the working country of the economist
+* narrow down the data collected to 400 rows to reduce to level of unbalance of the data
+* engineer new features description length and length of work from the data collected
+
+
