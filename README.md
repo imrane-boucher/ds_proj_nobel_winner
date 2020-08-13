@@ -57,4 +57,8 @@ Once the data scraped, it took a few step to clean and prepare the data for mode
 * narrow down the data collected to 400 rows to reduce to level of unbalance of the data
 * engineer new features description length and length of work from the data collected
 
+## EDA:
 
+![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/correlation_map.png)
+![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/nb_cit_barchart.png)
+![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/usa_yn_violin.png)
