@@ -1,5 +1,3 @@
-"# ds_proj_nobel_winner"
-
 # Predictor of Nobel Prize in Economics winning probability
 
 ## Background:
@@ -62,3 +60,8 @@ Once the data scraped, it took a few step to clean and prepare the data for mode
 ![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/correlation_map.png)
 ![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/nb_cit_barchart.png)
 ![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/usa_yn_violin.png)
+
+**Main findings**:
+* Nobel prize winners affiliated to a top 10 shangai university have on average more downloads and more citations, interstingly they also seem to publish less work. Nobel prize winners also score higher h indexes than regular economists. Overall nobelization seems to require strong academic performance and pair recognition.
+* According to the violin plot, it seems that on average regular economists (non nobel winners) working in the us seem to have higher academic performance (h index) than others. For nobel winners no clear pattern is reflected from the violin plot
+
