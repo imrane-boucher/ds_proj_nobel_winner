@@ -69,7 +69,22 @@ Once the data scraped, it took a few step to clean and prepare the data for mode
 ## Model Building:
 
 I split the data into a training and test set and made sure to maitain an equal proportion of each class in bot sets. 
-I trained three different models and cross-evaluated them with the ROC score since the Accuracy metric isn't to adapted for a highly unbalanced dataset.
+I trained three different models and cross-evaluated them with the ROC score since the Accuracy metric isn't very adapted for highly unbalanced datasets.
 
 three models:
-- 
+- **KNN Classifier: Baseline for the model** (no tuning to adapt to unbalanced dataset)
+- **Cost-sensitive Logistic Regression** (tune the model to adapt for data unbalance)
+- **Random Forest with random undersampling** (again tuned the model to adapt for data unbalance + RF can fit complex non linear classification problems + I had a lot of
+y/n features ex: usa_yn, top10_shangai_yn etc.)
+
+## Model Performance:
+
+The Random Forest with random undersampling outperformed the two other models. The primary metric I relied on was **recall** as the first aim of my model was to correctly recognize the largest number of nobel prize winners so it could then classify positively non yet nobel promissing economists (so the model was intendend to keep a loose precision)
+
+**Performance of the Random Forest with random undersampling on the test set**:
+
+| Recall        | AUC score     | F2 score  |
+| ------------- |:-------------:| -----:|
+| 0.88           | 0.872         | 0.53 |
+
+
