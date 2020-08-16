@@ -12,6 +12,7 @@ correctly recognize true Nobel prize winners **(recall score: 88%)** using a ran
 * Scraped over 2000 academic records of economists from the [IDEAS RePEc project](https://ideas.repec.org/top/top.person.alldetail.html) and various Wikipedia pages using beautifulsoup
 * Engineered features from the description of each economist to gain valuable insights on their profile (working country, affiliate university ...)
 * Optimized Cost-sensitive Logistic Regression and Random Forest Classifier with random undersampling using GridsearchCV to build the best model.
+* Used custom evaluation metrics (F2 score, recall) suited for unbalanced datasets (7.5% of positive class in the sample data)
 * Created a data app to display the result in a fashionable way using streamlit 
 
 ## Code and Ressources used:
@@ -65,3 +66,10 @@ Once the data scraped, it took a few step to clean and prepare the data for mode
 * Nobel prize winners affiliated to a top 10 shangai university have on average more downloads and more citations, interstingly they also seem to publish less work. Nobel prize winners also score higher h indexes than regular economists. Overall nobelization seems to require strong academic performance and pair recognition.
 * According to the violin plot, it seems that on average regular economists (non nobel winners) working in the us seem to have higher academic performance (h index) than others. For nobel winners no clear pattern is reflected from the violin plot
 
+## Model Building:
+
+I split the data into a training and test set and made sure to maitain an equal proportion of each class in bot sets. 
+I trained three different models and cross-evaluated them with the ROC score since the Accuracy metric isn't to adapted for a highly unbalanced dataset.
+
+three models:
+- 
