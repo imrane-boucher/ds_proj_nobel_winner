@@ -79,7 +79,7 @@ y/n features ex: usa_yn, top10_shangai_yn etc.)
 
 ## Model Performance:
 
-The Random Forest with random undersampling outperformed the two other models. The primary metric I relied on was **recall** as the first aim of my model was to correctly recognize the largest number of nobel prize winners so it could then classify positively non yet nobel promissing economists (so the model was intendend to keep a loose precision)
+The Random Forest with random undersampling outperformed the two other models. The primary metric I relied on was **recall** as the first aim of my model was to correctly recognize the largest number of nobel prize winners so it could then classify positively non yet nobel promissing economists (so the model was intendend to keep a loose precision which explain the modest F2 score)
 
 **Performance of the Random Forest with random undersampling on the test set**:
 
