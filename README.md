@@ -93,3 +93,8 @@ The Random Forest with random undersampling outperformed the two other models. T
 I built a data app with python and streamlit hosted on a local webserver using the youtube tutorial of the data professor referenced above. The app enables the user to test the winning probability of Nobel prize for any economist.
 
 ![alt text](https://github.com/imrane-boucher/ds_proj_nobel_winner/blob/master/images/streamlit_eco_app.png)
+
+## Further work:
+
+* I am planning on trying some mean normalization and feature scalling to see if it can improve the model
+* I could tune a bit more the model in order to seek for model improvement (the goal would be to improve a bit the precision of the algorithm without losing any recall)
