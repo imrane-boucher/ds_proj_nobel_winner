@@ -98,3 +98,4 @@ I built a data app with python and streamlit hosted on a local webserver using t
 
 * I am planning on trying some mean normalization and feature scalling to see if it can improve the model
 * I could tune a bit more the model in order to seek for model improvement (the goal would be to improve a bit the precision of the algorithm without losing any recall)
+* pay attention to outliers to see if it can improve the model
