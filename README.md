@@ -2,7 +2,7 @@
 
 ## Background:
 
-Being a student in economics, I enjoy reading papers, books, and articles by renowned economists. In the course of my studies, I often wondered what truly differentiated
+Being a student in economics, I enjoy reading papers, books, and articles written by renowned economists. In the course of my studies, I often wondered what truly differentiated
 Nobel Prize economists from others. This project was intended to provide an answer to that question, as well as building a tool that could help evaluate economists on their academic records. 
 This classifier estimates how likely an economist is to be awarded a Nobel prize during its carrier based on academic performance. As a result, it could for instance be used by the Nobel Foundation as a way to filter economists in their selection process.  
 
